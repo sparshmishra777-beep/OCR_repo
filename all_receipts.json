@@ -1,0 +1,2202 @@
+[
+  {
+    "source_file": "receipt_001-01.png",
+    "merchant_name": "Aluige",
+    "date": null,
+    "time": "11:00\n",
+    "line_items": [
+      {
+        "description": "lb @ 1 Ib /",
+        "amount": 0.2
+      },
+      {
+        "description": "cRAP 001200010451 F",
+        "amount": 5.48
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 5.89,
+    "cash_tendered": null,
+    "change_due": 5.89,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "WAL*MART\nALWAYS LOW PRICES.\nAluige\nSUPERCENTER\nOPEN 24 HOURS\nMANAGER . TBA\nop# Oc0001Se TE 14 TR 03178\nBANANAS. 00000000401 1KF\n0.41 lb @ 1 Ib /0.49 0.20 N\ncRAP 001200010451 F 5.48 N\nPe | DISCOUNT GIVEN \u20140..57\nSUBTOTAL = \u00ab511\n= CASH TEND 11:00\na | CHANGE DUE 5.89\n9 # ITEMS SOLD 2\nz a\nisin 8348 6485 7828 2003\nINN AMA\nTHANK YOU. FOR, SHOPPING WITH Us\nh = \u2018\u00e9. 4\n; 3 r. 4 |\n"
+  },
+  {
+    "source_file": "receipt_002-02.png",
+    "merchant_name": "\u201c \u201ca",
+    "date": "06-28-2014",
+    "time": "8:00AM",
+    "line_items": [
+      {
+        "description": "R-CARROTS SHREDDED 10 02",
+        "amount": 1.29
+      },
+      {
+        "description": "R-CUCUMBERS PERSIAN 1",
+        "amount": 1.99
+      },
+      {
+        "description": "TOMATOES CRUSHED NO SALT",
+        "amount": 1.59
+      },
+      {
+        "description": "TOMATOES WHOLE NO SALT W/BASIL",
+        "amount": 1.59
+      },
+      {
+        "description": "ORGANIC OLD FASHIUNED OATMEAL",
+        "amount": 2.69
+      },
+      {
+        "description": "MINI-PEARL TOMATOES...",
+        "amount": 2.49
+      },
+      {
+        "description": "PKG SHREDDED MOZZARELLA LITE",
+        "amount": 3.99
+      },
+      {
+        "description": "EGGS 1 DOZ ORGANIC BROWN.",
+        "amount": 3.79
+      },
+      {
+        "description": "BEANS GARBANZO",
+        "amount": 0.89
+      },
+      {
+        "description": "SPROUTED CA STYLE",
+        "amount": 2.93
+      },
+      {
+        "description": "A-AVOCADOS HASS BAG 4cT",
+        "amount": 3.99
+      },
+      {
+        "description": "A-APPLE BAG JAZZ 2",
+        "amount": 2.99
+      },
+      {
+        "description": "A-PEPPER BELL EACH Xt RED",
+        "amount": 0.99
+      },
+      {
+        "description": "2 @",
+        "amount": 0.49
+      },
+      {
+        "description": "BANANAS ORGANIC",
+        "amount": 0.87
+      },
+      {
+        "description": "3EA @/EA",
+        "amount": 0.29
+      },
+      {
+        "description": "CREAMY SALTED PEANUT BUTTER",
+        "amount": 2.49
+      },
+      {
+        "description": "WHL WHT PITA BREAD",
+        "amount": 1.69
+      },
+      {
+        "description": "2 @",
+        "amount": 0.69
+      }
+    ],
+    "subtotal": null,
+    "tax": 0.98,
+    "total": 38.68,
+    "cash_tendered": null,
+    "change_due": 1.32,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "\u201c \u201ca\n( TRADER JOE\u2019S\n2001 Greenville Ave\nDallas TX 75206\nStore #403 - (469) 334-0614\nOPEN 8:00AM TO 9:00PM DAILY\nR-CARROTS SHREDDED 10 02 1.29\nR-CUCUMBERS PERSIAN 1 LB 1.99\nTOMATOES CRUSHED NO SALT 1.59\nTOMATOES WHOLE NO SALT W/BASIL 1.59\nORGANIC OLD FASHIUNED OATMEAL 2.69\nMINI-PEARL TOMATOES... 2.49\nPKG SHREDDED MOZZARELLA LITE T 3.99\nEGGS 1 DOZ ORGANIC BROWN. 3.79\nBEANS GARBANZO 0.89\nSPROUTED CA STYLE 2.93\nA-AVOCADOS HASS BAG 4cT 3.99\nA-APPLE BAG JAZZ 2 LB 2.99\nA-PEPPER BELL EACH Xt RED 0.99\nGROCERY NON TAXABLE 0.98\n2 @ 0.49\nBANANAS ORGANIC 0.87\n3EA @ 0.29/EA\nCREAMY SALTED PEANUT BUTTER 2.49\nWHL WHT PITA BREAD 1.69\nGROCERY NON TAXABLE 1,38\n2 @ 0.69\nSUBTOTAL $38 .68\nTOTAL $38.68\nil CASH $40 .00\nCHANGE $1.32\nITEMS 22 Higgins, Ryan\n06-28-2014 12:34PM 0403 04 1346 4683\nTHANK YOU FOR SHOPPING AT\nTRADER JOE'S\nwww. traderjoes .com\n"
+  },
+  {
+    "source_file": "receipt_003-03.png",
+    "merchant_name": "TRL eS Can et Stara eae ae",
+    "date": null,
+    "time": null,
+    "line_items": [
+      {
+        "description": "W Nee : 75 fs BoE ea RON",
+        "amount": 1.1
+      },
+      {
+        "description": "mm 60,596kg & /kg J.J0 * CANA a Mise RS .",
+        "amount": 15.99
+      },
+      {
+        "description": "; TENNEREN Nedhank Pari ie MR e%",
+        "amount": 336.1
+      },
+      {
+        "description": "Mm% * Jian",
+        "amount": 9.48
+      },
+      {
+        "description": "me 3780 005 101.21 Toil! SUSAR 1a, eae te ae",
+        "amount": 23.02
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 338.16,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "TERRE WAS engi a eae ge a ea\nOP Ta ee ENC ae a Ee LEI te\nUPAR 8 eS NP ates: ge Sats ake ie\nUE REE aD NRG Rb Geen eae i\nPASE COE AI rh fe ay eon Cris, Saleh aba aL ae\nTRL eS Can et Stara eae ae\nCOENEN IS ION Mey See veer heh\nPe ee iy a Tay hye ee Pee ie ssiey\nOR PE ey NAN Suet ce aatert ee Ta\nSS UEy Wy Ea OREN aD UE Me ae A Le eet pat os\nTRA That Oa aac ath satay es aie ge ces on\nPRM CER ARES ARS EN ts oe\nUROL ney AN Ns sca eats er IE Soria\n.* 8 5 Teer te Rosny POR as Penasne yee ar Gee | AE a are\nOh ih, Vitaly Sey i ya MAL ar ayer ete Steele iar ol ott Ce\nWL deen ety OD SRR as Rao hens Cog I a\nDRM Ay EN ea ea aN oe gg\nty wae aa ty ATAU Ta sn pS COE gO ng lie en\nSh PR aA tetas he UIE ye De SGV epee ey ay a tiny ce\nOe IA Se PRR Ass eee SOM rTM Bee me ae OPO le | ane\n5 PORN ARN NTS! a sehr bre Laan Pie tedahs toate 4 7\nAah di ole 5 near iek INC CaN\nES eS,\nWhe tpt at rere tg \u00a5\nTe Pris ama\neA te Ae a la\nRR SoTL) 4\nTRA Rate Sed Be ep\nKI ARES ort gke apts\nrej eas. rs \u00bb aaa ss OU TA Lieto Let OSA Dd * t\n(idan ts * arn '/ A TRA ay cee A eee \u00a5 7\nae Ss ~~ Ly (9 AS 2, RI enh te isms Mad |\nh eo f on J . SA FDS a dea A IP D.. ey,\nRt BA IE RS DST HI A: A ee yf\nee oe Phe Ait \u201c4 ae S14 |\nNe oe Pl i\n5] 148124 Ea ae aw A\n\u2019 hc ky eee ma\n4 7 ae f\" KG \u00a7 4\nemail sparetell PRM ae te\nAT No : 44501026 Bish Ree egeon. Om\n\" f \" Th oy) PTF gage ca >y\nNLA At NU? KZN UoZo!/ ee Oe y\nVETO ie | OV RE ns re\nf OTRO) aoe z\n4 i \u2018f 195M iter foes # s\nWBY WORCE ULE 10M\" sae Y Vig re Ona\" aia )\n4 an ie eg te ase\niL - 3 Wp MEA Ren SI Say ad rol b\nSMOKED YIENNAG \u201c 3 Lise ee ek eee\nDEAL EN PEACHES ANG O\u00a3.J AL OR 4g\nPEALE) PEALHEDS JU ie LR \u2018 \u00e9 \u201c%\nCALEL FN 4 } Ret he \u2018 eye Yu\nMEDITERRANEAN MIX IKG Wee\nDAR CONKING OT! 375M Utes CL OREN Ton meee ;\nSPAR COOKING OIl = BA 19 QQ 4 6, OE gt ORY AM\ne rin al vie) \u00e9 . ni y- x\nF/L ENGLISH CUCUME Ke OKA PORES sn hee 2M\n\u2122 wrorTic AER 85GR LV .9- ay Oe 4,\nPANBIIRY DAIRY MI BUbk oO } RS eS\nLAUDUNT | 4 ss Siw Me Sea ee & Sy\n*PADES MIXED TUB UB 24,59 * 1 Oey Goat\nTASTIC RICE 500GR 73 * Sets pcan my,\nBLACK CAT SMOOTH 270GR (J) i eareros\n- W Nee : 1.10 75 fs BoE ea RON\nCARRIER BAG 241 od hel . 1 Re Rite een\nBANANAS NOL 17KG in aa eunte es\nBANANAS LUUot es Ras Ne \u2018\nmm 60,596kg & 15.99 /kg J.J0 * CANA a Mise RS .\nGam nr a EMC 2% 6 ; ye aa %\nMm TOTAL \u2014-FOR 14 ITEMS 338.16 POA ya BRE\n; TENNEREN Nedhank 336.10 Pari ie MR e%\nj CNL U NEUE OR an aaa. |\n7 AX ee i\nare TAX INVOICE Cr een }\nLed VAi rate ex 1A? \u2018 Shy Ca j\nMm 0.00% 119.48 0.00 9.48 * Jian\nbeat ve oS ica pe F , . \u00e9 |\n: +c Any 109 4\u00a2 92 69 P1R BAR A weeds / .\n, } AAQUTCO / NATE / TTME eee nes i\nPcimp / TILL / CASHIER / DATE / TIME ST es eee ,\nme 3780 005 101 23.02.21 Toil! SUSAR 1a, eae te ae\n{ Ged SACLITED NAME> CWAT RY. } ' oo\nMe CASHIER NAME: SWAZI Lee skit GCP CUR |\neek Ys) a DSA Pe me PR ah fe Ps EARS: \u00a2 Ce }\ni Please Retain o11p oo ;\nahs , : ; c aminn idehaotiot 3s ' ' '\nie Fae Thank You For Shopping With Us! :) VA key\nacti Thank You For onopping wit ri OEE BOY\n\u2019 A CAIIA : ? , ee Rar lle \u2018 be Mad NOT ad\ni WA dey Tesi 3 Follow us on Facebook: Spat Bergyi|! (Ny \u2018\n4 fay mi}? \u2018 f d\nf : weil wat fh \u00abSt \u201cs ue ; h iS f e eS ,\n: ; i i 5 Ea A LN tad trie paket ee ale tiot Keke \u2018 ( re 4\n4 wat PY CIPI Aa Foran y sian Hep PEN TS RRR RG : irk, APee . y\nnae Ee apse hy ake Laren n eile Mr ice cl at be ik has ah oka A tk F \" f\nPopes TORK te RS me SUR av pete Rd vane RR ken a a TAL\n"
+  },
+  {
+    "source_file": "receipt_004-04.png",
+    "merchant_name": ", \u00bb",
+    "date": null,
+    "time": null,
+    "line_items": [
+      {
+        "description": "res \u00a9 Ere \u201d PL TORTILLA\u2019S",
+        "amount": 6.99
+      },
+      {
+        "description": "pas a \u00a9 CAGE FREE ALL WHIT",
+        "amount": 3.69
+      },
+      {
+        "description": "ca * BLACK BEANS",
+        "amount": 1.29
+      },
+      {
+        "description": "vs GO et x Frozen Mansoes 160",
+        "amount": 2.99
+      },
+      {
+        "description": "re AN x Whole Strawberries",
+        "amount": 2.99
+      },
+      {
+        "description": "Pee ee * OG LF COTTAGE CHEE",
+        "amount": 3.49
+      },
+      {
+        "description": "? * MAHI MAHI FILLETS",
+        "amount": 8.99
+      },
+      {
+        "description": ", #VC $2 of f (1) WC Fill",
+        "amount": 2.0
+      },
+      {
+        "description": "x California Harvest",
+        "amount": 2.69
+      },
+      {
+        "description": "eWT PLUMS BLACK CV",
+        "amount": 2.16
+      },
+      {
+        "description": "NHP SLICED HICKORY",
+        "amount": 3.99
+      },
+      {
+        "description": "9 Ib @ /1Ib TARE = 01",
+        "amount": 1.99
+      }
+    ],
+    "subtotal": null,
+    "tax": 45.44,
+    "total": 45.44,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": null,
+    "currency": "USD",
+    "raw_text": ". 522 ~ .\ni, Jee \u2019 A\na Sa\no sg -\"\n, \u00bb\ne / a - ming\nsantae. : WHOLE\n+ Tee FOODS\n4 iM AR K E fT]\n\u201cMoe SHARON RD.\n> - \u201cSe\nPa \u2122 A\nres \u00a9 Ere \u201d PL TORTILLA\u2019S 6.99 B\npas a \u00a9 CAGE FREE ALL WHIT 3.69 B\nca * BLACK BEANS 1.29 B\nvs GO et x Frozen Mansoes 160 2.99 B\nre AN x Whole Strawberries 2.99 B\nPee ee * OG LF COTTAGE CHEE 3.49 B\n? * MAHI MAHI FILLETS 8.99 B\n, #VC $2 of f (1) WC Fill 2.00-\n- x California Harvest 2.69 B\n\u201c= 1508: Ib. @ 1,99: Sb TARE = .01\neWT PLUMS BLACK CV 2.16 B\nITEM = 4040\nNHP SLICED OVEN RO 3/998\nNHP SLICED HICKORY 3.99 B\n1.649 Ib @ 1.99 /1Ib TARE = 01\nWT GALA APPLES UG 326 B\nITEM = 94135\nwee TAX \u201833 - BRL 45.44\n"
+  },
+  {
+    "source_file": "receipt_005-05.png",
+    "merchant_name": "a",
+    "date": "10/20/07",
+    "time": "13:48:43",
+    "line_items": [
+      {
+        "description": "SW FIGURES 065356920144",
+        "amount": 6.63
+      },
+      {
+        "description": "TOOTHBRUSH 003500055500 x",
+        "amount": 0.96
+      },
+      {
+        "description": "WOMEN SLIPPE 009725614790",
+        "amount": 9.86
+      },
+      {
+        "description": "MCARD TEND",
+        "amount": 18.75
+      }
+    ],
+    "subtotal": 17.45,
+    "tax": 0.54,
+    "total": 18.75,
+    "cash_tendered": null,
+    "change_due": 0.0,
+    "payment_method": null,
+    "currency": "USD",
+    "raw_text": "a\n. en \u201c as \u201cie\nSave money. Live better.\nWE SELL FOR LESS\nALWAYS\nMANAGER DAPHNE SESSION\n( 636 ) 536 - 4601\nCHESTERFIELD, MO 63005\nST# 2600 OP# 00001855 TE 17 TR* 03359\nSW FIGURES 065356920144 6.63 X\nTOOTHBRUSH 003500055500 0.96 x\nSUBTOTAL 7,59\nWOMEN SLIPPE 009725614790 9.86 X\nSUBTOTAL 17.45\nTAX 1 3.400% 0.54\nTAX 3 4,3500% 0.76\nTOTAL 18.75\nMCARD TEND 18.75\nACCOUNT #3546\nAPPROVAL #007190\nTRANS ID -\nVALIDATION -\nPAYMENT SERVICE - A\nCHANGE DUE 0.00\n| TC# 9489 7094 6487 3073 3651 T |\nWal-Mart exclusive Easles CD ;\navailable October 30th!\n10/20/07 13:48:43\n\u2014_ ue\n"
+  },
+  {
+    "source_file": "receipt_006-06.png",
+    "merchant_name": "fates",
+    "date": null,
+    "time": "19:19:31\n",
+    "line_items": [
+      {
+        "description": "GIT CARD 087458604343 6 pala ath",
+        "amount": 50.0
+      },
+      {
+        "description": "SUBTOL A \u2018ae",
+        "amount": 50.0
+      },
+      {
+        "description": "TOVAL =",
+        "amount": 50.0
+      },
+      {
+        "description": "90-00",
+        "amount": 50.0
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 60.0,
+    "cash_tendered": 60.0,
+    "change_due": 10.0,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "ID # AL LSWOYGKACH f a '\nfates\n| | it -\n| Wal | oe aga\nalmart>,<. |\nSave money. Live better. |\n( B43 ) 29? - 0962\nMANAGER MECHAEL SE TGHARD\n2014 S TRBY $1 '\nTLORENCE SC 29504 \\\nSTW 02703 OPK GOS049 TER 4A9 TRA OF142 ao igi >\nGIT CARD 087458604343 50.00 6 pala ath:\nSUBTOL A 50.00 \u2018ae\nTOVAL 50.00 =\nCASH TUN) 60.00\nCHANGE (UE 10.00\nSHOP.CARL ACT LVATION 50,00 .\nACCOUNT 613968546249 /29\u00b0' Aer:\nAPPR. CODE \u2014 792986 ae -\nREF #OUR3742 \u2019\nBeg Bal Iran Amt End Bal\n0.00 50.00 90-00\nOU 11/17 19:19:31\nICH 9/36 SBOS 9257 9333 1932\ni CHAM WALA\nSL\n| SH | | i) |\nMeices You Cain Trust. Eyery Day,\n=Y a nN 19:22:40\ni ee Store receipts on your pone. Walmart p\na 4 eat\n_ ne\n"
+  },
+  {
+    "source_file": "receipt_007-07.png",
+    "merchant_name": "Sa",
+    "date": null,
+    "time": null,
+    "line_items": [],
+    "subtotal": null,
+    "tax": null,
+    "total": null,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": null,
+    "currency": "MYR",
+    "raw_text": "Sa\nSSS ~\nSCS EN RNG\nSSS SSS SON >\n. \u2018 wes Se Sens SYSe SAS\n\u2018. ~~ : AON Sa _~ < a \u2018\nEe : RR SN SSOAQsy \u2018 2.\nSes SSS SSSA SS SSIS\nBP NE, Ae ~ \\. tena a : se a ~ : N Sas Rook ~S ; &\nBe ones SSS Se ws SUR Sone SSN Sa \u2014\u2014\n_\u2014 SR sen = = mat = So Re as SSA Sek ~ Satay\nee SSS RS . SSS Ns a SN\n\u2014 XS SSS Ss Sa SSS aS, ~ a aN ae SS\n: ne SSS Bese tee ~~ Ss SO a SSN a\nSS St ~ eS SSSSSSS ii Ss ee ENN \u2018\nSSS Ray ~ NS Sn Sa EAS a SR SEN = ~ Ss Me\nSos SEN SSSASsr Ses SOA SN RSS Sas\nSEs ENN ES SOE \" SRN. ee : Se Sw\n~ as <a ioe Sal \u2014s sa Roe wt > = nN ae\net <= ces oe = SS Stns waten! SO Naas BASS S < * at x\n- ~ Si SSS NS ~ + SS oS Se ~ \u2018\n- \u2014 SST \u201c SSO Se cai hee ease eS S$\nSous ~ ee \\= * ss - \u201ca & on ~ Als . ~ \u2014 Ve e aNd - ~~\neae a on \u201cRS sae SNe se ~ SENSE: Se ee ORS e, \u2018a\nraw = eo SES acim poses TSS San Re eK\nYr 7. \"tad ts \u2014 et ~~, a Ra Ohta\u201d \u201d SN =o . se 7 y\n~~ >\" oh % we\nei Fn we. . che .\n* nn are SSS\n\u2014\u2014 saree or ae u TSR a en Es \u2014\u2014 :\nwe Soe eee Pons x aaron one f or % \u201cS 2 \u201cee\nme peace nee eens = ip ES ie Sos eS\nye, . a~ re , . i _ = St \u201c SS\nle te Reena ee Seapets \u2014 Se =. ece = See \u2014s Pe = ~~ ~*~\nee oe 2 ae oft r \u2014\u2014\u2014\u2014s a ~< \u2014\n: vs Oe ote te ss, bg aes os ~~ tai \u2014\u2014~. = ~ = ~ SP : es \u2018 =<\u201c \u2014~\nPree Ee es a er Sse ~ = x : > SS = a <\nRee eee ee a ac : so >\n~s ae, nee ene - Sat pawn er Sein, Oona -\" Pate =o 7 c ~Sae - me RRR, -\nes Ae aes Seeeeee Se a ee 1 \u2014_ => a = SSS SSS\n\u201c *\" * See oats ey Ray ow eX, nt aa ; fe ag ~ . = oan wat = > r \u2014 \u201c= ae \u2014F 3 a me -\nResin eens ee Sees oes wW =- aa <= = Sr =k Se :\n: hs ae pa age eg ae. eee Pore \u00ab ate -- \u201cSS < > . oe oe ee See - , ~\neet ee SoS \u201cte. wens ER etna Fs gta 65 =e oe = SRE : > ee \u2122 See =\nae, ae re ee = Sas ees: <0 ean re As mae , ne = ae = - a Ss ss \u2014s &\nvo ee oo, eeraa? \u2014_\u2014 = SS \u2014 oe = ene a i .\n+. lng\u2019 \u2014 nes ee ee SOGCe he he ora ae sr ees ig \u2014_ ~TN \u2014 mR me % \u201c%,, \u00b0 oe ~ ~ ~\nPoe Sets Pe: at a SS Serene ames oo -\u2014- Ss = SS Sh S =\n~~ es nas See nee e ee etna. a -s eo \u2014_ SS SSS . \u2014s - . \u201cSs\nro tne eros ioe eee, riage ran pe . _\u2014\u2014 \u2014 eee a eo! : :\n* PE ees a ee ee e _ o>: : =e ~~ } : x\n\u2018oe i a Beatin es Sie ee ne, PER < \u2014 Ses = so x . ee\nPee Sees See Se eee -~\u2014 SS ss SSS .\nat \u2018 ee tet iota Sing \u2014 anata a \u2122 eel : =. = > \u201c3 = eo \u201ca Sa\" \u2014\na ee SO Some onset nas Pigetox Se te _\u2014 ~~ SS Soe > Mi\neae = xs en eGo res a See \u2014<) So = a = \u2014 a Se a AZ .: . ~ x =\nGi ee se ca \u201c2S - oP ae - -_\u2014 = See ~ ae ; = a . ;\nigs Rr -*, am ast x's ee Se od SSeS Se as SS = ce ~\u2014\u2014\u2122 -\nes ene Fae re eee 7H Bis SS SSS =~ =\nSES Sea a = Sa ee oe Ay SS =\u2014\u2014 \u2014 33 ee SI\nae a oat aa eee sO ey Sa rae 3 os a A wae aK - ~\u2014 . a == : = ne : he :\naa Se errennee TSS Se Se Se is =~ = ee SS ae\nee = ona ca\u201d eee Beer ee ee : . \u2019 we Se \u2014 So a ~\nae Be gen Tod 2 Ka a ; AR a Se = = aan : \u2014~\nSates See ee Re - a \u2014\u2014 = SS = <a =~. ~\nRene ee ene =e ee oe ae SSS = \u2014 CSS = NE AO = :\neee te oe sy. Ss ~<, <\u2014s = ye . wo SS x ~ i Ras er ee ~~ re Ps tener\noe 5s nee Seems \u201ceos cf, oa ae os \u2014. ; i ~ = . > SS\nSees Secor ee a oe r . \u2014S \u2014\u2014 = See SSAA\nee SE tter. SSS cS\n= vse ee om RS ee = SS a rag ae \u2014_ mS Se ~~ wae ENE .\nee SS = rae cae . e be Ss = So SSS SSS SS SS :\nsea Genet SN pain aan Be a ne ne ie = ae Vv ~ SS Se ~ = aN SS a SS Ns AS\nee = = oe ae Li SSS \u2014 SSS * Se = SSS SN \"=,\nx eae eo Steet Paes <\u2014 <=; S Seas are i 2 \u00ae Qe ~~ <n a ~~ \u2014 % a ene ; SE PA ae SS\nee a > Ft 7 aa oe, Se x ee ~~ =,\" es or = = SS ~~ 5 ~ ~~ s on SES Se .\n\u201cwe eee Soro! mens een aoe <2 ne == races ee 2 Na = SSS wos oe as aN SS ee Len ~ > : \u00a5 ~\ngre Tn pinata ara ae aK rare eS \u2014<\u2014\u2014\u2014 ten soos SS m Wethe SS SN , SS Ae \u201c Rg he hes aS) a ~\nSee SS et ne ae See SS ve 2 co aS sa Soe Stats SS SS SEN\nSesame See Sena ee aoe .- Saale a << \u2014 a \u201c\u2014 Sa = ae er WS Soa <a = es\nSee Seer mS ee. ace Soe Sete Se 4 W Se ee, eS. Nee SS Se \u2018 Sa Sas = - AD\nee \u00b0 =a SES ca sea 5 ER ll ; = SS = Se ST SS h ~ : SVQ\nLe SR ee Sa Ss ~) xs SS Ses = ~~ <\u2014 . ~ ook \u201cAS ~~ =< ae SS \u2122~ We: . NS \\ 7 =\nPierre a earner ae tars \u2014\u2014 Sacarecee << ~ SRS SSS Scenes Sere\n: . Aaa ee ge panes No eX, cee a = See Sa aon oS \u2018 > \u2018a ~\u2014 os . 2\npes, Sete aor Potie, oe ae SS <= Seeman . Se ; Ma\na. Sage ot See ee arr Sain et \u2014 - <<. SS te ee ~ ~ MENS SAS SAS .\nSe ae cA Sars ee 7! \u2014 => x . Sea SAS ~ en \u2014 Sad :\n. open ene See Soa c = ee \u201cSeen a aN sa eae ees SS SO\neee NA ) 30 SS SEES SSS SSS\naoe \u201c> - SS \u201ca n > 9 ~~ aa _ wy * ~~ \u2014 ~ .\nae en ig eget - TR x SSS \u201cSAN S\nTeer. OS ae ae COL E 10 s SSS SSS SSSR SSS SST\nSe eee ae ee 555 VIL TE? 8 SES \u201cSSS SS mee a SSSSsS_ ~ SN\nSe \"5 Se tt IS ee ee 3 . > ss -\u2014\u2014 ~~. Pot es : SSS =e \u2018ogh ~ Se te =e a = ; Sate\nSeta 5 SK gh Salata: Sr ae Sea aoa ogee a a Y 3 SSS ee ao AS as NS % SS ~ SEN ~\nSens reese POF a ees ooo Ss 2 near Se * ~oe Se SSS Ses Se WS ODADAS Ke ~S =\naces Rance SAE Tt ee eee ee Fitton er ee Se \u2014 =< Saas _\u2014\u2014 0 See Sas i ee Se \u2014 a tote ~ nets << ee ok WSs\nete ee a SRS \u201c<0 a a aoe Sanam = oe RAS OO 2 ol State Nea SSS at SS S ~\nSeearitens ~ nea veer, eX. pa oo ee \u2014 Rta oar Sa \u2018e ~~ Sey NS ae Se Daan Le \u2014 \u2019 SN ~ ~\nSpawn Sees ee ie peers =r <>- eee Ss, Sa went ~~, a mates . - ~ Sh\nree ae 5 Saeth Torres Angee i -- \u2014e -- \u2014 Fan ie ae on = ~ ~ oes A i Sac ~ ~ TVS whe : a\nSee re sof ea ites ad a SS = 0 eS ee eS a ~S hea eee\noe Sears See see eee a T NE 0 5 . SSS SSS Lak SSN SS\nBo: es ee Sr 0 1 SSSSSssa SSS SSSK REQ SER\nee eet Seen anne ee Zoe\" oa = ee \u2014 = 0 SSS a =. ke ewdes? = an St ae KS = SAN ~\n4 Seon oem hr Sree == <> - Re a Say <a . . SS ~ SSS . SS _ SA rn a ae =, SO = ~ tae 8 8\n+ iG we Poa Sate See <= ; ss SSS ee =e - \u2018 IS SS ws ~~ eae Oe ss SA ea TEN ~ ee a\n~ BRS = = cone \u2014\u2014 Ss S$ E 30 7 Ce sats Se Sete Re ans Soni SS RES\nSe eater Se nse tara oes Soa a ioe ates ~~ re S el ak ~~ SUS Soe = rs\nRecreeicctt Se == ae aa ae VEU G 753 4) a . = SSS SS wn Se a SSS ~ \u201cRASS\nSoe Ses SS ae a : SSS SSS SoS\nRee ee ee \u201c5 oe - el ~_ = ra ce os, - . Se en he oe ae 4 a Danes hat \u2014\nes ae SS DA a 5 \u00e9 . \u201c << SSS SS SSS WEN\nSiete aero os SI ee se PK 00 23 SSS SSS SS SSS aR\nSeen ee ee erases \u2014\u2014 ee YD E 4 \u2014 RREARSSS SSS TOS SSS SSN\nOe a Benne Ses Ses See ee a creooe Ss . RA te = ws aS Kae > SSS Se oe = -\nane ease eee, Sa ee ae peas : ~ : ec SSN Se SS ah - =n Ss\nSeen en mo pete Seb ee reo Ls eas <a ee s Ecos \u2014~ 2 \u00b0 \u2014 =\u201c S , SS \u00bb ae a <x mS Ss ~~ .\nes Re ee ee cen SS 5 LLE a \u20ac.0- SS SS SEN =< SSS ; S\na cease Coote ea oa \u2014\u2014 Lo et SSS < OSS a ~ ~ . ats. aX, . my ~~ ts ~\nSee Bae: ae oe SoS eee < R SSS Sc SRN SSN Se SS :\nSeek = TE a Se aaa : Sees Sat - TA *} 7 ~~ . SS SSS fants 8 SS = - a SINKS :\nSe ite aces SS See eee | : oN. ~SGa Se Ao aah SSN\nSea Se ae oe ee = ae eae \u00e9. . ; SSS ES a . x\nstains \u2018 Sees pene ee Re mn Soe = \u2014<- poe gi <= 1 TO ~. =k Owe ~ Sa RO MS ek a oS\nSe Seer Searare eat =: an Se Mere See ak = AX D SSS SS ~ =< ea a ight OSes =~\neee SS ee See : SSSSess S88: SESSA Ss\nee ttete ae PRS ae See SS Se SSS ROS SS SEEN\nane eee cs eon Se Si oS ST > es. . atic, Sn ol, an ~ Sa : _ WW\nee ae eae eee | SSS SSS SST SSE\n~ ee a3 oe Fa tee eh ae Ss \u201coe ~ . : ye a Ne se \u2014 . Ry ORL ~\nSS Seesaw \u2014 ae By ce > eres = ANG a SSN = SSN SSS es Seats : oe ~~ NON\n= o Sse i Pen $e SS em Ceacece we Ss : = = eh a. oot : :\na \u2014 SSS aw ge one Se = > Sty teens Sos - . ~ a \\\n\u2014\u2014\u2014 See ae a CH Ss SS Saw =\nSTR See os ee Sees a aoa . > SS ~ my aN \u2014 ea Mee\n= ee oJ es = \u2014\u2014 a _. 4 ei - = a a i te\nSa : ee eee one ES SS SSS \u2014s\nr- Sa tase See eee oe ot 35 aes a at ae ~ 3 |\nee Bae =~ ero See ems == See me PR See\n: \u201c275 Sener See Saran ere eer Sr > : x SS ; i\nSee SSS eee Ko See ee Soa meaenee ROM Ss ss \u2014 Date ee SSS ae SS\na ~ Sa ae = Ft og ce - Popa r=: - : a aon er * : . : ~\nSeeees Se = ; en eS =e = Y \u00a5 a | Sa = Ss 2 < a \u201c SSS we - 3 =\nSe eee a eres Sve eos =S * = SSS SSS SS SEEN Nose ate\n= \u2014 a See eR ei ge ~ ee _ 2 ane oo x \u2018 ~~ \u2014 ae Ss > ~~ . sate ose ~% . g\nSc em ee a ea oo An aa on St SS . ~~ = aS aN : ;\ni Se ae a ee =o ees eo ae re eggs Gina Ss SS S18 Soot ~~ ~t as \u2014 : :\nne = SSS ~\u2014 See ao oe. a we SRS By \u2014 S Sao Sa\neoSeee Ss Sonia Se ~ gta : = = ~S ~ Sens ; - ; . Se .\n\u2014 34 =, ae ~\u2014 Soe = ee oe <= se Tae Re z \u00a5 a. NS . +e ~ oe my ~\nSarre 5 a = Basa eae: Sens ee \u2018 pias we oon \u00a5 \u00a5 \u2014_ e = VE = ~ o = NS\ncoe eet Fa Sara ne aes mee FIs % < SS ~S tagtheatias\u2019 : ke BCs\nene oe 2 Seen : Ole J SERS ~~ TS See Se Lo\n= as \u2014\u2014- ee RS ee oe iat ee a aS ~ : CS eee \u2014 \u2018% ~\u2014\n<< Bee Foe eee Pimms eS rage 2 yey Sots . TS w! \u2014 ~ a << a .\na eee Se Fa Fag: i ee ~ RAD ve Ve ~~ > ~~ ~ ~~\nNee ate oe 5S am Se eS ? \u00a5 9 * Sete w oe < = oad ~ Set ~ es\nee = Se \u00e9 ae ae | QS Sa ~ ay >t er Se - Renan ~~\n= Ss a5 = a Sea Ss rae = Se . Sa. Late ~ \u2014 eS Shah aes ~\n<\u2014\u2014 Fone See aoe es rn cee = a ae ao \u2014 he \u2014 ~S a ae \u2018 ~ = ae =\nSa ae AS agg Se net ag So ety Pode\u201d. g 2 es ONS ~_ Ss ~ SS At = SS oe ~.\nre eee <a o SAAS SSS SS \u2018 SS\nSee = me ae Ser 7 6 ~S foals = = * wie =\"\n\u2014 tg Pa \" Se See rt en ee Ss SS . SV ca Note Dos a ey SS Senks\nSAS - SSS Se Se : \u2122\u201c aS rm As ~e ~ i es SSS . ~ % .\nSmetes Sra \u2014 oe pe e ale a ae a \u2014 ee SS \u2014 s Sk - Sas SS SS ~ ~~ Sa hos * es\nne ee oe SIG ree SSS Ae LTS Ss SSNS Loses Sans\none \u2014\u2014 eae SSE eee Z ee : . ee SS ten SS WAN ee es, SS,\neee Be ee ae E $ (34: SS SSS SSS SSS SSss SSS\n- oS Go See ag \u2014\u2014 A g pees. > A aa ks thus. SS Ha a, et\nee eer See re oie See 5 e ; OS ~~ SN YN\nrs SR pee Soe ees RM SS SEES SS SS SSS\nSo Bee Seas ? Soe See wit i } 7 ' = <\u2014S Se ae SN Sa i TSS ~ SENS\nSerer See eee /0 ) 1 SESS SRE SS\noe Boe re or ciao toca cs IS . ears Net wun SS See ee eats t .\nz Sean ere \u00a3 ee ee ree <= . 05 MS 6 : Se \u2014 BRS aes te aN N. See SN t . e, .\naie: 3 noe . er eae 5, = ee re = het witoe > , we. <=. ee x eo ah RAS ek ..\nSean es pa ase a I Seeares oe 23 2 SSNS SSS SSS a SES ae\nees sh cea Seer 7s 35 0 | Sa SSSASs SS\nLace Sean ieee ees SSS SESS\noo Boe ee = 5 Se <I SAS YS SERS '\n; OO ee ; SS SS SSS SESS TS\nCahn one \"A ea = at ie ~ \u201ceS % ~. a ee Sm ae \u2014s, 4 \u2014 \u201ca :\nere *: Been ata eaten a Sate SSS = =~ Se = \u2014. a atin\nve La eae See a aoe \u201c ; . Sess =~ WE eo Sie oe \u201c A\nas ys Paro oe . , Se Soe \u2014\u2014 k =\" aan % rm,\nChe eS Se : ae :18 t SSN SSS SS SSSR\n\"s S ~~ >. at \u00ab 2 & ~~ \u2018* ay ey \u2014 . \u2018 - \u2014~\\ \u201c ~ , .\nee SS - aa 154: lmar SES SSE TSSRV SVEN\nBo Bp POSE | | ' a SS SSN VSS\nee a, fa \u201c 3 A \u201c- Sense ~ a =o one \u00ae ~ aR ee, ae hy\nae : Fine oe rear as ne *2 .\nea \u2018< Soin i a 73 > Senet ae =e 4/1 ee yt . . i, - ,\nise ae oe elo ore se a as \u2014 ; ur Saat SRN a ; ee .\neas Ce eee = oe 5/ yO | SSNS SSSA 7\nEgg Sa on SSS\nd *. oi as res Ste \u2014\u2014 ~ \u201c Ta ea = wee\n: ees oa Siaggcoe ae | ipts = SSS Rahat |\nfee es ep Pe es ece Ss LESS |\nibe ae ge ae iv be 2 ie a : ue.\u00bb = . ~~ ~ 2\nieee Soci SIP Fess \u00a5 an ae e <\u2014 \u201cae ee ae Se Rie ate .\nSe Oe ES | Stor 7S SSSA SS\n(nS Cs re rane : Ze oe ee we \u2018 tT Set ote \u2014 \u2018\nSenay Retard mR See a os he\u201d - *& a - <x Sot SSS Wy hey\nSe Saceeaes Sana poe SATs y. : =. SSS SSN\nrn OE Boss ce = \u201cTi See SSS SESS\neu s5 ay 4 we Parra als Srtinss ola * i AS \u2014 ~\n= Re Co eee dee 4 SSS SSSR\nee c A J WES =< > rite. ~ i ~ eat i ar\neo Se : = nae = = te. a \u201ca as oS <a A xR Se :\n* ee oF, <a Cl ll ol 7. wees \u201c rf . ~ \u201c ~ \u2014 ms SN ee ~ \u2018\n. ee i os = \u2014 r 4 ~ yo = Py Pt se Sk SSN oN > a \u2014~ <\n, = <7 ee aia wes ae, fas phe . be * t ee ae =e a Ce 2 ws ek S\nPetr : ie (> tae Ae . ~*~ Oo a =e SSeS ns\na eee es at aon : \u2018. . ' ae \u2014- ek +e PS aa\n\u2018 aN \u201ca ng ete Pin Se ae ne va, Se \u2122 SVS SSTs Le\nseater Bee BE Se Sle SSS SSS\nsen \u00a5 = - aes ie, ey a e, . = SN eS ~~ SSS \u2018\non * ; en ~ ~ ae BI \u201d wen ts ay *\n> ae ) ey tag Br. \u2018 as SSSR Sek we me\ncae ot Sag er Se ee aN wae\n; \u00b0 ne Sass: = SSS as tan\n: : 3 Pet ; a\nLate * at Sots a. Ss Sw SSS WY! wh.\n: = =e Ae, 7 \u201c~~ Shae!  * ~~\noo hee o \u2014 \u201c Fae . eee \u00bb \u00bb \u201c it oes\ntop?\u00bb le re bf = -* < % i , \u00b0 \u201c mates Soke ae = _* .*\n5 pees 5 kes SS\nete x eis, : at \u201che aS Nan ~~\n- Cit a. : ma \u2018 <= SS ae *\n* ee ACS k : . ; : : \u2018. : a \u201c33 PP a aS\ni Bele, Tae = > . - . a eu e\nok oe fe ae te : . a\n. Sere ~ ale -* nae u\nRe as ae = =\nern g ey \u201cTete. hee\nin er = pS be . . :\nSa das a Re\nSeis pig Bi. T= Mee =\u201c <C\nee a \u2014~ ee ; ae\nSee ee =e SS a\neae, a fealty & ne : alt\nae \u201c>= ag a ae iat \u2014\u2014 \u00bb OF\nSoS at a Spe got\nSe \u2014~ ~\ni _\n"
+  },
+  {
+    "source_file": "receipt_008-08.png",
+    "merchant_name": "ee",
+    "date": "07/22/16",
+    "time": "20:63:11 ",
+    "line_items": [],
+    "subtotal": null,
+    "tax": null,
+    "total": 12.09,
+    "cash_tendered": null,
+    "change_due": 0.0,
+    "payment_method": "card",
+    "currency": "MYR",
+    "raw_text": "f to winck of recelrt for your one ct \u2018 i 7\ney. TD &: \u2014 7yyy2uwoK3Y baal ;\ni le ----..___ \u00a3.____....__ aa a\n~ | Walmart >< _ .\nee\n\u2019 Save money: Live better: ; ow\nBA sq oh\n) 799 = 0020\n* wnat Nae gS\nINSTER CA 92683 |\nST# 02496 OPE 006969 TEs 79 TRE o1626))\n; DIABETES | O6B8113131172H = 12BB\nst ~ . gupToTAL \u201812: 4\n: 2 ToTAL \u00ab=s12,88 .\nVisa TEND / 12.09 | age ake.\nVisa Credit xnxx anne wane 3670 11 ut {\nAPPROVAL # 222235 | : .\nii REF \u00ae 620500604401 4 .\nTRANS ID ~ \u00a786205139884060\nVALIDATION ~ 76LK\n7 PAYMENT SERVICE ~ E oh td\n* \u00a3& AID 0000000031010 ' a4\n. TC 9EOFACOABOSESD92 oe eee\nTERMINAL # 281767447 oe | a\n% #*NO SIGNATURE REQUIRED ey\n07/22/16 20:63:11 re\nCHANGE DUE 0.00 \u00bb .\na k TC# 7603 0129 1089 7649 4115\n0\nONG 20ST\na ee \u2014 -\nv ; pes tcher| Scan wt f 5 etal: ny wh x\n\u2018i Obes 10 Beles i\n. a asst tt\n4 d Faeeh \"yw Bit\n; aay \u201cee ce\n\" Chat ry = vY. Ad}\n7 * bi os\nok Se\n"
+  },
+  {
+    "source_file": "receipt_009-09.png",
+    "merchant_name": "5",
+    "date": "11/13/17",
+    "time": "12:34:04",
+    "line_items": [
+      {
+        "description": "rake 6 WING PLATE 020108870398",
+        "amount": 3.98
+      },
+      {
+        "description": "ASST 27 063099656595",
+        "amount": 4.88
+      },
+      {
+        "description": "CUTIE CAR 063099656644",
+        "amount": 12.88
+      }
+    ],
+    "subtotal": 21.74,
+    "tax": 6.5,
+    "total": 23.19,
+    "cash_tendered": null,
+    "change_due": 0.0,
+    "payment_method": "card",
+    "currency": "MYR",
+    "raw_text": "5\n=\n\"See back of receipt for your chance\nto win $1000\nID #:  7L2T9WJM25F\n: Wal ES\nalmart >.<.\n> ee Save money. Live better.\nea ( 701 ) 223 - 3066\nFe MANAGER TIM MORRIS\nzu sees 2717 ROCK ISLAND PL\n* = ane ~ BISMARCK ND 58504 \u2014\nBete ST# 01534 OP# 009048 TE# 48 TR# 04455\n: rake 6 WING PLATE 020108870398 3.98 P\nASST 27 063099656595 4.88 X\nCUTIE CAR 063099656644 12.88 X\nSUBTOTAL 21.74\n\u2014 TAX 1 6.500 % TiS\n_ TAX 4 7.500 % 0.30\nTOTAL 23.19\nDEBIT TEND 23.19\nCHANGE DUE 0.00\nEFT DEBIT PAY FROM PRIMARY\n23.19 TOTAL PURCHASE\nUS DEBIT KKKK xxxk xxxx 2696 IT 0)\nREF # 731700494718\nNETWORK ID. 0081 APPR CODE 936886\nUS DEBIT\nAID A0000000980840\nTC 58B77239DA5B3B44\n*NO SIGNATURE REQUIRED\nTERMINAL # SC0O11090\n11/13/17 12:34:04\n# ITEMS SOLD 3\nTC# 2188 7274 6444 1567 3762\ns Low Prices You Can Trust. Every Day.\nRee! 11/13/17 12:34:11\nes Store receipts on your phone. Walmart P\nae ay.\nie mange:\n\u2018 \u201cty ong he\n: 2 i i ;\nRas, =\nSee\n"
+  },
+  {
+    "source_file": "receipt_010-10.png",
+    "merchant_name": "Wal bc",
+    "date": null,
+    "time": "14:26:03",
+    "line_items": [
+      {
+        "description": "lb @ 1 lb /0,54",
+        "amount": 0.95
+      },
+      {
+        "description": "BEVERAGE 003120002133 F",
+        "amount": 2.0
+      },
+      {
+        "description": "OS Fay fot Oe Le esona F",
+        "amount": 2.0
+      },
+      {
+        "description": "STRWBRY 076471782200 F",
+        "amount": 0.96
+      },
+      {
+        "description": "CAMPARI TOM 073447501213 I",
+        "amount": 2.98
+      },
+      {
+        "description": "KFT SINGLES 002100061526 F",
+        "amount": 3.78
+      },
+      {
+        "description": "ict tg 004450098211 F",
+        "amount": 3.98
+      },
+      {
+        "description": "HARD SALAMI 020533960343 F",
+        "amount": 3.43
+      },
+      {
+        "description": "4 AT 1 FOR",
+        "amount": 1.76
+      },
+      {
+        "description": "SH NYLON COL 007417024836",
+        "amount": 2.97
+      },
+      {
+        "description": "HAND CLEANER pe ted",
+        "amount": 1.67
+      },
+      {
+        "description": "INJECTR CLNR 004980710003",
+        "amount": 8.87
+      }
+    ],
+    "subtotal": null,
+    "tax": 1.14,
+    "total": 38.68,
+    "cash_tendered": 40.68,
+    "change_due": 2.0,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "See back of receipt for your chance\nto win $1000\nID #:  -7K2GFISL2FF\nWal bc\nalmart >,\nSave money. Live better.\n( 970 ) 259 ~ 8755\nMANAGER MIKE NEIDLINGER\ne 1156 S CAMINO DEL RIO\nDURANGO CO 81303\nST# 02270 OP# 000144 TE# 02 TR# 03080\n\u00ab BANANAS 00000000401 1KI\n1.75 lb @ 1 lb /0,54 0.95 R\nBEVERAGE 003120002133 F 2.00 R\nOS Fay fot Oe Le esona F 2.00 R\nSTRWBRY 076471782200 F 0.96 Y\nCAMPARI TOM 073447501213 I 2.98 R\nKFT SINGLES 002100061526 F 3.78 Y\nict tg 004450098211 F 3.98 Y\nHARD SALAMI 020533960343 F 3.43 Y\nAVOCADO 000000004046KI\n4 AT 1 FOR 0.44 1.76 R\nPILLS WHITE 068113113619 F 1,00 Y\nSH NYLON COL 007417024836 2.97 X\nHAND CLEANER pe ted 1.67 X\nINJECTR CLNR 004980710003 8.87 X\nSUBTOTAL 36,35\nTAX 1 7,900 % 1,07\nTAX 2 6.000 % 1.14\nTAX & 2,900 % 0.12\nTOTAL 38.68\nCASH TEND 40.68\nCHANGE DUE 2.00\n# ITEMS SOLD 16\nwi Gi\n| O1/1b/17 = 14:26:03\n: H\nBe, OF sa) e 5\n\u2014 : Ta is = a,\n\u201cihetee- ah Cp 2. sae\nBig fete fu as -aitna the i a \u00abta :\nPLM ne ae aa a * pare:\netal pe eos ce tie Rp (rr aera, ae a\nspussare ds See je eet a ee Ree\n. \u2018 Peet ag ery, = rte fi, aaa fe A Ay \u00a5\ncae pied ores oe\n"
+  },
+  {
+    "source_file": "receipt_011-11.png",
+    "merchant_name": ";",
+    "date": "10/31/21",
+    "time": "10:08:22\n",
+    "line_items": [
+      {
+        "description": "ay rat R 0078749 5191 7 N rig.",
+        "amount": 0.98
+      },
+      {
+        "description": "ob male m 007874 19191 f N ore",
+        "amount": 0.98
+      },
+      {
+        "description": "Soe Ay WALUI 007874206203 | N i",
+        "amount": 2.84
+      },
+      {
+        "description": "AATN LPI 903700077007 \u00a5 38 an",
+        "amount": 6.97
+      },
+      {
+        "description": "Neha 003700076954 x ie",
+        "amount": 4.94
+      },
+      {
+        "description": "mol YEG OT] 907874221000 fF N - ; x",
+        "amount": 1.82
+      },
+      {
+        "description": "NICKER fs 004000050533 | X 4s",
+        "amount": 3.78
+      },
+      {
+        "description": "[AX 10 % a",
+        "amount": 3.6
+      }
+    ],
+    "subtotal": 82.75,
+    "tax": null,
+    "total": 86.35,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "card",
+    "currency": "MYR",
+    "raw_text": ";\n2. :\nPA \u201cp Feedback Y sury \u00a5 Walmart Me\nThank your ID #: Jon) IS7NyS om i\n' z.\nWalmart 25 A\nSO9-318-.075; Mgr : MARK \u201ca\nM490 CYPREGe GARDENS BL yp 4\nF WINTER HAVEN FL 3 JBBq om\n# 03 1 OPH 009086 EH 16 TRH 05386 Py.\nay rat R 0078749 5191 7 0.98 N rig.\nob male m 007874 19191 f 0.98 N ore\nSoe Ay WALUI 007874206203 | 2.84 N i\nen VAL UE 907874206913 j 2 84 N . ; rd Ps\nAATN LPI 903700077007 6.97 \u00a5 38 an\nNeha 003700076954 4.94 x ie\nmol YEG OT] 907874221000 fF 1.82 N - ; x\nNICKER fs 004000050533 | 3.78 X 4s\nSUBR FS: Gp, 003400029305 F tease }\ncen MVC 004000047587 F d a > =\nVHERRTE\u00ab 004326880002 | : a\nGAIN 003 100082365 ae \u2018 -\nHY RST} EG PM 035497333521H a x _\nBATTERTES 001280051783 i a y if\u2019\nGV 202 MINI 007874219999 1 58 0 3\nCRNBRY SAUCY 903120001605 F 346 0 +\nSPREADS 002 740026499 F 5 90 0 e\nFGGS 6C1 007874212709 F 275 om\nSUBTOTAL 82.75 ee *<s\n[AX 1 7.000 % 3.60 a\nTOTAL ee , gy\nDEBIT TEND 86.35 4\nCHANGE DUE 0. -\n\u2018 EBT PAY FROM PRIMARY Db .\ntt ULD tb es ~\n86.35 TOTAL PURCHASE pail\noy TI 9832 I 0 4\nFIFTHITHIRD DEBIT \u201c REAR AERS 900 2\n, } Wf) O85 .\nREF # 13040072 ae CODE 001740 |\nNETWORK ID. 0076 | 7\nUS Debit ane ; \u00b0\n; ATU AQO 000% ices\nAAC A8FABI oni 1161 is\nTERMINAL. i or 10:08:22\ndeseo sD 6 SS\n# ITEMS 3938 0953 7373 ;\nt ES TTA |\nICH [963 loz iN | | iN : \u2122~\niff) Hl H | Will Mii i} | Sa\nHE) Hi Hi | HT i,\nWMATA HT A \\\n| | HIT] I | He irs) t. Every Day a\n! an Peay :\nLow Prices You Ce 08: 26 y\n10/31/21 10 4\n: 3\n"
+  },
+  {
+    "source_file": "receipt_012-12.png",
+    "merchant_name": "Ss",
+    "date": "10/16/21",
+    "time": null,
+    "line_items": [
+      {
+        "description": "GRILL COvER 471288396997 x se es",
+        "amount": 14.97
+      },
+      {
+        "description": "lb @ 11b /1.4q N SS ee",
+        "amount": 3.61
+      },
+      {
+        "description": "\u201cipo s* =; See",
+        "amount": 34.0
+      },
+      {
+        "description": "aon OlAL",
+        "amount": 35.05
+      },
+      {
+        "description": "SHOPPING CARD TEND a Sone",
+        "amount": 35.05
+      },
+      {
+        "description": "CHANEE DUE \u201c9 Ss",
+        "amount": 9.1
+      },
+      {
+        "description": "SHOP .CARD REDEMPTION | We eS",
+        "amount": 35.05
+      },
+      {
+        "description": "a",
+        "amount": 122.94
+      }
+    ],
+    "subtotal": null,
+    "tax": 1.05,
+    "total": 157.29,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": null,
+    "currency": "USD",
+    "raw_text": "Ss\nPics eS\nBe a =\nid ees oe\nFf ot ee ~\nGi oaroack { Raia\nThank\u2019 yous ID FOR III GNM. com Re\nWalmart sc \u2014\n676-9425 Mgr: ers\nba STATE ROA ORIEL = ~~ SS\nLAKE WALES FL 3oa98 eS\nGRILL COvER 471288396997 14.97 x se es\nCELERY HEART 009998365301 F ag y ~ ee\n2.51 lb @ 11b /1.4q 3.61 N SS ee\n\u201cipo s* 34.00 =; See\nTAX 1 x 1.05 = ee\naon OlAL 35.05 SS\nSHOPPING CARD TEND 35.05 a Sone\nCHANEE DUE \u201c9.109 Ss\nSHOP .CARD REDEMPTION | 35.05 We eS\nACCOUNT KRKAKAKERAKA IGG we SS a\nBeg Bal Tran Amt End Bal \u2014.\n157.29 35.05 122.94 a\n# ITEMS SOLD 4 cee\nTC# 6949 6652 6669 8007 1705 ee\nHill \\ ian\n| | Ni) a\n{|| | =\nill | \u2014\u2014 ~ e\n_ Low Prices You Can Trust. Every Day. Re\n10/16/21 11:d9.qn\"Y OY =\n; eS\nng = a NS ais .\n"
+  },
+  {
+    "source_file": "receipt_013-13.png",
+    "merchant_name": "Pea",
+    "date": "10/18/20",
+    "time": "11:30:42 ",
+    "line_items": [
+      {
+        "description": "i GV OATMEAL 007874243408 F 0 ae",
+        "amount": 1.76
+      },
+      {
+        "description": "OT 2002 TUM 081236803115 X a",
+        "amount": 6.74
+      },
+      {
+        "description": "M ATHLETICS 019104567781 X",
+        "amount": 24.97
+      },
+      {
+        "description": "DEXAS 15X20 008429710921 X Bea os,",
+        "amount": 12.97
+      }
+    ],
+    "subtotal": 46.44,
+    "tax": 3.46,
+    "total": 49.9,
+    "cash_tendered": null,
+    "change_due": 0.0,
+    "payment_method": "card",
+    "currency": "MYR",
+    "raw_text": "Pea\nGive us feedback @ survey.walmart.com ape\nThank you! ID #:7PB65JWCFZ2 See,\nt s\nWalmart >.<. as\n949-498-6669 Mor : MICHAEL | Fae\n951 AVENIDA PICO 4\nee) __ SAN CLEMENTE CA 92673 Bese\nST# 02527 OP# 009045 TE# 45 TR# 06193 Be\ni GV OATMEAL 007874243408 F 1.76 0 ae\nOT 2002 TUM 081236803115 6.74 X a\nM ATHLETICS 019104567781 24.97 X :\nDEXAS 15X20 008429710921 12.97 X Bea os,\nSUBTOTAL 46.44 es\nTAX 1 7.750 % 3.46 Bas Je\nTOTAL 49.90 eS\nDEBIT TEND 49.90 Baws\naise CHANGE DUE 0.00 agape\n~~ EFT DEBIT PAY FROM PRIMARY ier\npoe 49.90 TOTAL PURCHASE pe\n\u201c\u2014 US DEBIT xxxx xxxx xxxx 9689 I 0 aes\nwP REF 029200639128 papeiare.\n~*~ NETWORK ID. 0056 APPR CODE 461500 eae\n-2 US DEBIT Spee ees 2\nZh, ArD A0000000980840 be\nTGs 7756F 4EB82B54EED ae ee\nZZ TERMINAL # SCO11004 Zoe\nEs 10/18/20 11:30:42 ee\ngee # ITEMS SOLD 4 TES\nsige TC# 2400 4776 4305 8847 1471 3 ste\nwae Cer ies\naoze #2\nLEE 1, oe\nees iz?\nent A be\n= Z 2 Wt. \u00a3 ry Fret\n<= _\u2014\u2014 Introducing Walmart+ [|\nSs S| : Join Loday at walmerl.com/plus ie\niS: 4 Low Prices You Can Trust. Every Day. CH =\nes bet tor16/20\" 11:30:46 <--\ntot ) bas\n"
+  },
+  {
+    "source_file": "receipt_014-14.png",
+    "merchant_name": "4 DOLLAR TREE.",
+    "date": "9/17/22",
+    "time": "17:08\n",
+    "line_items": [
+      {
+        "description": "BAMBOO CHARCOAL TOOTHBRUSH 1T",
+        "amount": 1.0
+      },
+      {
+        "description": "SP STICK ACTIVE DEO 17",
+        "amount": 1.0
+      },
+      {
+        "description": "SP STICK ACTIVE DEO 1T",
+        "amount": 1.0
+      },
+      {
+        "description": "SP STICK ACTIVE DEO 17",
+        "amount": 1.0
+      },
+      {
+        "description": "SP STICK ACTIVE DEO 1T",
+        "amount": 1.0
+      },
+      {
+        "description": "SP STICK ACTIVE DEO 1T",
+        "amount": 1.0
+      },
+      {
+        "description": "SPEED STCK A/P ULT SPRT 1 =T",
+        "amount": 1.0
+      },
+      {
+        "description": "SPEED STCK A/P ULT SPRTT",
+        "amount": 1.0
+      },
+      {
+        "description": "SPEED STCK A/P ULT SPRT 1T",
+        "amount": 1.0
+      },
+      {
+        "description": "BAMBOO CHARCOAL TOOTHBRUSH 1T",
+        "amount": 1.0
+      },
+      {
+        "description": "BAMBOO CHARCOAL TOOTHBRUSH 1T",
+        "amount": 1.0
+      },
+      {
+        "description": "BAMBOO CHARCOAL TOOTHBRUSH 1 =T",
+        "amount": 1.0
+      },
+      {
+        "description": "BAMBOO CHARCOAL TOOTHBRUSH 1T",
+        "amount": 1.0
+      },
+      {
+        "description": "BAMBOO CHARCOAL TOOTHBRUSH 1T",
+        "amount": 1.0
+      },
+      {
+        "description": "BAMBOO CHARCOAL TOOTHBRUSH 1T",
+        "amount": 1.0
+      },
+      {
+        "description": "BAMBOO CHARCOAL TOOTHBRUSH 1T",
+        "amount": 1.0
+      }
+    ],
+    "subtotal": 24.0,
+    "tax": 1.44,
+    "total": 25.44,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "card",
+    "currency": "USD",
+    "raw_text": "4 DOLLAR TREE.\nStore# 156 (517) 993-0356\n1941 W Grand River Ave.\nSuite 101\nOkemos MI 56252-5601\nDESCRIPTION QTY PRICE TOTAL\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T\nCOLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T\nCOLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T\nCOLGATE TOTAL WHTNING TPST 1.4 1 = 1.00 1.00T\nCOLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T\nCOLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T\nCOLGATE TOTAL WHTNING TPST 1.4 1 = 1.00 1.00T\nCOLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T\nSP STICK ACTIVE DEO 1.82 1 1.00 1.007\nSP STICK ACTIVE DEO 1.82 1 1.00 1.00T\nSP STICK ACTIVE DEO 1.82 1 1.00 1.007\nSP STICK ACTIVE DEO 1.82 1 1.00 1.00T\nSP STICK ACTIVE DEO 1.82 1 1.00 1.00T\nSPEED STCK A/P ULT SPRT 1.82 1 = 1.00 1.00T\nSPEED STCK A/P ULT SPRT 1.82 11.00 1.00T\nSPEED STCK A/P ULT SPRT 1.82 1 1.00 1.00T\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T\nBAMBOO CHARCOAL TOOTHBRUSH 1 = 1.00 1.00T\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T\nSub Total $24.00\nSALES TAX $1.44\nTotal $25.44\nFIFTHTHIRD DEBIT $25.44\neexezeeeeen 2074 Approved\nPurchase Chip\nAuth/Trace Number: 503800/049059\nChip Card AID: 400000020\nNOW SHOP ON-LINE AT DOLLARTREE.COH\nRRRKKKAARKKKKKSSKRKKAKAT AAA KK KARA SRAKKAKTAARKRAKKAKTAAK\nx We will gladly exchange any unopened item *\n* with original receipt. We do not offer refunds. *\nRRRKKKESRKKKKKSTRK KK KAKA TERAKKA KARA KAA ERRATA\n7534 00185 04 004 21435062 9/17/22 17:08\nSales Associate: Tommya\n"
+  },
+  {
+    "source_file": "receipt_015-15.png",
+    "merchant_name": "|",
+    "date": "2/20/14",
+    "time": "19:52\n",
+    "line_items": [
+      {
+        "description": "CONDITIONER i 100",
+        "amount": 1.0
+      },
+      {
+        "description": "GINSENG TAS SOOM l 1N",
+        "amount": 1.0
+      },
+      {
+        "description": "SCRUB SPONSE 1 17",
+        "amount": 1.0
+      },
+      {
+        "description": "SALES TAK",
+        "amount": 0.21
+      },
+      {
+        "description": "Where Everything's",
+        "amount": 1.0
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 10.21,
+    "cash_tendered": 20.21,
+    "change_due": -10.0,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "|\nDollar Tree Stores, Inc.\ntore# 4561 Z\n900. NW 27th Ave\ni ami FL 93147-4911\ncescenPrio av Pat\nCLIF BAR P3 fh]\nCLIF_ BAR 3 ee 7\nrere tore ERONI 32 : 1,00 l\nSLICED PEPPERONISZ i\nCONDITIONER i 1.00 100\nGINSENG TAS SOOMG 1 1 N\nGINSENG TAS SOOM l 1 1.00N\nSCRUB SPONSE 1 1 1.007\nGENERAL EXEM \"$0.\nSALES TAK $0.21\nTotal $10.21\nCash $20.21\nCHANGE ====> $-10.00\nThark You for Shopping at Dollar Tree\nWhere Everything's $1.00\nNow Shop On-Line at Dol lartree.com\n1601 04561 03 039 21128592 2/20/14 19:52\nSales Associate; jacquitta\n"
+  },
+  {
+    "source_file": "receipt_016-16.png",
+    "merchant_name": "Ww. 3S",
+    "date": "04/27/19",
+    "time": "12:69:46\n",
+    "line_items": [
+      {
+        "description": "HAIER TOTS \u201c901312000026",
+        "amount": 2.96
+      },
+      {
+        "description": "HARD/PROV/Dc 007874219410 F",
+        "amount": 2.68
+      },
+      {
+        "description": "HRI CL CHS \u2014 003120506000 F 0",
+        "amount": 5.88
+      },
+      {
+        "description": "HRI 12 U SG 003120536000 F 0",
+        "amount": 6.88
+      },
+      {
+        "description": "EARBUDS 068113100946",
+        "amount": 4.88
+      },
+      {
+        "description": "SC _BCN CHDDR 007874202906 F 0",
+        "amount": 6.98
+      },
+      {
+        "description": "ABP THINBRST 022451710972 F 0",
+        "amount": 9.72
+      },
+      {
+        "description": "APPLE 3 BAG 084747300 84F 8N |",
+        "amount": 66.47
+      },
+      {
+        "description": "AVO VERDE 061611 Fo",
+        "amount": 2.98
+      },
+      {
+        "description": "BTS DRY BLON 501072452746",
+        "amount": 6.58
+      },
+      {
+        "description": "TR HS FRH 4 002240062190",
+        "amount": 2.74
+      },
+      {
+        "description": "BAGELS 001376402801 F 0",
+        "amount": 4.56
+      },
+      {
+        "description": "GV SLIDERS 007874201525",
+        "amount": 2.98
+      },
+      {
+        "description": "ACCESSORY 007615161216",
+        "amount": 0.97
+      },
+      {
+        "description": "CHEEZE IT 002410053623 F 0",
+        "amount": 4.0
+      },
+      {
+        "description": "WAS YOU SAVED",
+        "amount": 0.64
+      },
+      {
+        "description": "RITZ 004400088210 F",
+        "amount": 2.78
+      },
+      {
+        "description": "RUFFLES 002840020942 F",
+        "amount": 2.5
+      },
+      {
+        "description": "GV HNY GRMS 007874207263 F .N",
+        "amount": 1.28
+      }
+    ],
+    "subtotal": 139.44,
+    "tax": 4.68,
+    "total": 160.02,
+    "cash_tendered": 160.02,
+    "change_due": 6.0,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "See back of re jour chance\nto win $1000 Th \u00a2syent vi xcODG\nWw. 3S\n. almart 2,\n517-851-1102 Har: JAMIE BROOKSHIRE\nwane STATE ie i\nST# 05483 OPS DOT aTe Ned 09 TR\u00ae 06976\nHAIER TOTS \u201c901312000026 F 2.96\nHARD/PROV/Dc 007874219410 F 2.68 O\nSNACK BARS \" 002190848816 F oes q\nHRI CL CHS 003120606000 F 88 0\nHRI CL CHS \u2014 003120506000 F 5.88 0\n** VOIDED ENTRY we\nHRI CL CHS \u2014 903120606000 F 5, 88-0\nHRI 12 U SG 003120536000 F 6.88 0\nHRI CL PEP 003120507000 F \u00abiB. 88 0\nEARBUDS 068113100946 4.88 X\nSC _BCN CHDDR 007874202906 F 6.98 0\nABP THINBRST 022451710972 F 9.72 0\nHARD/PROV/DC 007874219410 F FS oO\nDV RSE OIL 4 901111101220 34K\nAPPLE 3 BAG 084747300 84F 8 66.47N |\nSTOK LT SUT 004127102774 | 42 7\nPEANUT BUTTR 0051 z 440\nAVO VERDE 061611 Fo 2.98\nROLLS 007874219415 F :28 0\nBTS DRY BLON 501072452746 6.58 X\nGALE Q00000000003K 32 00 T\nTR HS FRH 4 002240062190 2.74 X\nBAGELS 001376402801 F 4.56 0\nGV SLIDERS 007874201525 2.98 X\nACCESSORY 007615161216 0.97 X\nCHEEZE IT 002410053623 F 4.00 0\nWAS 4.54 YOU SAVED 0.64\nRITZ 004400088210 F 2.78 N\nRUFFLES 002840020942 F 2.50 N\nGV HNY GRMS 007874207263 F 1.28 .N\nSUBTOTAL 139.44\nTAX 1 7,000 % 4.68\nTOTAL 144,02\nCASH TEND 160.02\nCHANGE DUE \u00ab6.00\n# ITEMS SOLD 26\n< TC# 0783 5080 4072 3416 2495 6\ny i\nARMOIRE AY ILA\nPri. 04/27/19 12:69:46\nScan with Walmart app to save receipts\n. % oy cae\n5 2\n\u2014 J :\na\n_\u2014 4 f rf]\n\" J P + _\niat 1 :\n# \u201c2\nbb\n"
+  },
+  {
+    "source_file": "receipt_017-17.png",
+    "merchant_name": "= iD",
+    "date": "12/08/15",
+    "time": "12:39:24",
+    "line_items": [
+      {
+        "description": ", SW HRO FGHTR 063050940732",
+        "amount": 6.94
+      }
+    ],
+    "subtotal": 6.94,
+    "tax": 0.49,
+    "total": 7.43,
+    "cash_tendered": null,
+    "change_due": 0.0,
+    "payment_method": "card",
+    "currency": "MYR",
+    "raw_text": "\"= ~=\u00a96 Walmart s'<\nid <> 7\\~-\nf\u00a5> Save money. Live better.\n= iD\n> ( 712 ) 366 - 3326\nale MANAGER DONALD MONEYMAKER\n, ie 3201 MANAWA CENTRE DR\nf. COUNCIL BLUFFS IA 61601\n. ST# 01965 OP# 002031 TE\u00ae 20 TR* 05145\n: , SW HRO FGHTR 063050940732 6.94 T\n: SUBTOTAL 6.94\nTAX 1 7.000 % 0.49\nTOTAL 7.43\nDEBIT TEND 7.43\n. CHANGE DUE 0.00\n: EFT DEBIT PAY FROM PRIMARY\n7.43 TOTAL PURCHASE\nACCOUNT # AH He nna ES\n. REF # 634200381765\n: NETWORK ID. 0056 APPR CODE 087193\n> TERMINAL # MX995026\nRr es 12/08/15 12:39:24\n: Ce On\nidnisht 7 days a week.\nOren Gan NORiB 12:99:26\nSavings Catcher! Scen with Walmart app\nrio\n+ RSM 4\n: . Se he\nse) rH 1\n[ lh e : \u2014_\n"
+  },
+  {
+    "source_file": "receipt_018-18.png",
+    "merchant_name": "5",
+    "date": "9/19/2020",
+    "time": "07:10 PM",
+    "line_items": [
+      {
+        "description": ", KTTL SEA SALT POT CHP  \u00a7 ;",
+        "amount": 1.29
+      },
+      {
+        "description": "me =BRAIDED BRIOCHE",
+        "amount": 6.99
+      },
+      {
+        "description": "Net Sales:  24.",
+        "amount": 208.26
+      }
+    ],
+    "subtotal": 20.2,
+    "tax": null,
+    "total": 208.26,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "card",
+    "currency": "USD",
+    "raw_text": "- Say f & ~e t a\n+ Te a nn oY 4 \u2018 ;\nme =WHOLE FOODS &\n\u2018a MARKET\n5\nSunnyvale SVL 406 4 19-1290 \u00a2 A\nae \\ 150 E Mc Kinley Ave i\noe Sunnyvale, CA 94066 Wed 4\n, KTTL SEA SALT POT CHP $1.29 \u00a7 ;\nme =BRAIDED BRIOCHE $6.99 F\nBee = CHEF PLATE MEAL $10 | Sas le\n* e: 2 @ \u00a310 \u2018 O0 Ca $20) \u2018 00 F 4\n| Subtotal : $20.20\nNet Sales: $208.26 24.\n: Total - $28 . 28\nSold Items: 4\n| Paid:\nRETURNS: We are now accepting returns on\npurchases with the following conditions:\n| Returns will only be accepted on purchases\nmade on or after 9/19/2020. All returns\nbe require a receipt. No returns on items\n? purchased after 90 days. For additional\nfe. 2 information please visit wfm.com/returns.\na KKK KEK KKK KKK KKK KK KKK KKKK KKK KKK KKKKKERAR\nEarn 5% Back at Whole Foods Market\nwith the Amazon Prime Rewards Visa.\nLearn more at amazon.com/amazonvisa\nTOOK CK IORI ROCIO OK OK IO OOIOK 2K K\nHOW WAS YOUR SHOPPING EXPERIENCE?\nGo to: http: //www.wfm.com/feedback\nENTER FOR A CHANCE [0 WIN A $250 GIFT CARD\n908 6387 02/10/2021 07:10 PM\n63011070790806387021020210\nGKTHQWG2ZD ae\nThanke \u2014 Whala Ennde Market\n"
+  },
+  {
+    "source_file": "receipt_019-19.png",
+    "merchant_name": "CREPERIE a",
+    "date": "26/01/2015",
+    "time": "16:13 ",
+    "line_items": [],
+    "subtotal": null,
+    "tax": null,
+    "total": null,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "MOMI &G TOY\u2019s =\nCREPERIE a\n1 PRG Mall Kemang. lL aes\nemang VI No. 6\nmomiantoys_ind Cinst :\n@indmomi Ctwitter) a\nCheck: 3850 Sas\nPax: 1 OP: Gunawan Gunawan =\nPOS Title:Cashier \u2014\u2014\nRept#:415000001363 26/01/2015 16:13 ee\n1 Woman 0 aE\n2 Ham Cheese 74,000 tee\n1 Ice Java Tea 16, 000 oe\n1 Mineral Water 13,000 fae\n1 Black & White 12, 000 ae\nSUBTOTAL 175,000 =\nTOTAL 175, OOO\nCASH 200, 000\nan ee\nClosed Bill\n\u00a2---=---~--=26/01/2015 16: 14----------->\nThank you for tasting.\nour Meltingly Crepe\n"
+  },
+  {
+    "source_file": "receipt_020-20.png",
+    "merchant_name": "5",
+    "date": "11/13/17",
+    "time": "12:34:04",
+    "line_items": [
+      {
+        "description": "rake 6 WING PLATE 020108870398",
+        "amount": 3.98
+      },
+      {
+        "description": "ASST 27 063099656595",
+        "amount": 4.88
+      },
+      {
+        "description": "CUTIE CAR 063099656644",
+        "amount": 12.88
+      }
+    ],
+    "subtotal": 21.74,
+    "tax": 6.5,
+    "total": 23.19,
+    "cash_tendered": null,
+    "change_due": 0.0,
+    "payment_method": "card",
+    "currency": "MYR",
+    "raw_text": "5\n=\n\"See back of receipt for your chance\nto win $1000\nID #:  7L2T9WJM25F\n: Wal ES\nalmart >.<.\n> ee Save money. Live better.\nea ( 701 ) 223 - 3066\nFe MANAGER TIM MORRIS\nzu sees 2717 ROCK ISLAND PL\n* = ane ~ BISMARCK ND 58504 \u2014\nBete ST# 01534 OP# 009048 TE# 48 TR# 04455\n: rake 6 WING PLATE 020108870398 3.98 P\nASST 27 063099656595 4.88 X\nCUTIE CAR 063099656644 12.88 X\nSUBTOTAL 21.74\n\u2014 TAX 1 6.500 % TiS\n_ TAX 4 7.500 % 0.30\nTOTAL 23.19\nDEBIT TEND 23.19\nCHANGE DUE 0.00\nEFT DEBIT PAY FROM PRIMARY\n23.19 TOTAL PURCHASE\nUS DEBIT KKKK xxxk xxxx 2696 IT 0)\nREF # 731700494718\nNETWORK ID. 0081 APPR CODE 936886\nUS DEBIT\nAID A0000000980840\nTC 58B77239DA5B3B44\n*NO SIGNATURE REQUIRED\nTERMINAL # SC0O11090\n11/13/17 12:34:04\n# ITEMS SOLD 3\nTC# 2188 7274 6444 1567 3762\ns Low Prices You Can Trust. Every Day.\nRee! 11/13/17 12:34:11\nes Store receipts on your phone. Walmart P\nae ay.\nie mange:\n\u2018 \u201cty ong he\n: 2 i i ;\nRas, =\nSee\n"
+  },
+  {
+    "source_file": "receipt_021-21.png",
+    "merchant_name": "= ~ Ser",
+    "date": null,
+    "time": "15:00 ",
+    "line_items": [
+      {
+        "description": "| E 633561 KS DICED TOME \u00ae gt",
+        "amount": 6.49
+      },
+      {
+        "description": "ae \u00abOC 967596 JACKORGSALSAEF Bos",
+        "amount": 2.97
+      },
+      {
+        "description": "mm 8638 a",
+        "amount": 4.29
+      },
+      {
+        "description": "~4 E \u2014 878137 18CT EGGS E  Saee",
+        "amount": 12.87
+      },
+      {
+        "description": "BCE 77053 GRAPE TOMATO6 Gee >",
+        "amount": 6.29
+      },
+      {
+        "description": "; 404609 ECO HALF PAN",
+        "amount": 6.49
+      },
+      {
+        "description": "me 55992 GRND TURKEYE Be",
+        "amount": 18.47
+      },
+      {
+        "description": "\u2014 ~~ 263423 CHPD ONION E rial",
+        "amount": 3.59
+      },
+      {
+        "description": "_ ae 22101 MONT JACK 2#6 (ow",
+        "amount": 4.45
+      },
+      {
+        "description": "a Check/Member Prntd a>",
+        "amount": 89.13
+      },
+      {
+        "description": "| A% TAK",
+        "amount": 0.55
+      }
+    ],
+    "subtotal": 85.61,
+    "tax": 3.52,
+    "total": 3.62,
+    "cash_tendered": null,
+    "change_due": 0.0,
+    "payment_method": null,
+    "currency": "USD",
+    "raw_text": "Ly ee a, We ge ee ee i Pes\n= ~ Ser\n<i ma :\niN A .)\nCosTco.. ..\u2019\nWHOLESALE Pen\nCae a\ny Thornton laaee Se\n| 16375 N. Washington ST. iy\n4 Thornton, CO 80023 Pe 77\na | me\n2 2X Member 111826278335 Pe ae A\n| & 673919 FF BS BREAST  23-99E 9 &\n| E 633561 KS DICED TOM 6.49E \u00ae gt\nae \u00abOC 967596 JACKORGSALSA 2.97EF Bos\nmm 8638 4.29 a\n~4 E \u2014 878137 18CT EGGS 12.87 E  Saee\nBCE 77053 GRAPE TOMATO 6.296 Gee >\n; 404609 ECO HALF PAN 6.49 A\nme 55992 GRND TURKEY 18.47E Be\n- \u2014 ~~ 263423 CHPD ONION 3.59 E rial :\n_ ae 22101 MONT JACK 2# 4.456 (ow\n\u201c4 SUBTOTAL 85.61 eee\nEx TAX 3.52 go\n| xe TOTAL SAKES\na Check/Member Prntd 89.13 a>\n4 CHANGE 0.00 fe\nSS tat\n| A 8.50% TAK 0.55\ny, 3.75% TAX 2.97 oe\n5 TOTAL TAX \u00a9 3.62 ite\n\u00a5 TOTAL NUMBER oe SoD = 11 4\na wMmets 15:00 629 4 172 14 1\nij ops: 14 Names PEPPER \u00a7\n\u2018A Thank You! :\nPlease Come fAsain\nnse +629 Trm:4 Trn:172 OP:14\nBa, ye\n\u00e9\n. =>. i en: Sars ay a rs = \u2018\n"
+  },
+  {
+    "source_file": "receipt_022-22.png",
+    "merchant_name": "WY i:",
+    "date": null,
+    "time": "11:46\n",
+    "line_items": [
+      {
+        "description": "96 } 5",
+        "amount": 2.18
+      },
+      {
+        "description": "20 77 4.0",
+        "amount": 1.28
+      },
+      {
+        "description": "PORK LOIN CHOP 20337400000 |",
+        "amount": 5.48
+      },
+      {
+        "description": "DRUMSTICKS 26841800000 |",
+        "amount": 10.87
+      },
+      {
+        "description": "EVE Rte STK FP 20148200000 |",
+        "amount": 9.91
+      },
+      {
+        "description": "je RND_ STR FP 20148200000 F .",
+        "amount": 9.32
+      },
+      {
+        "description": "2 a MAC 2100065886 Fs",
+        "amount": 5.98
+      },
+      {
+        "description": "ye WAFFLE Fs",
+        "amount": 3.64
+      },
+      {
+        "description": "L\\D igs 2430004120",
+        "amount": 1.96
+      },
+      {
+        "description": "LINKS MILD M 2430004101",
+        "amount": 1.25
+      },
+      {
+        "description": "KEEB TOW 742955036",
+        "amount": 1.25
+      },
+      {
+        "description": "URKEY FRANK 3010010055 &S",
+        "amount": 5.78
+      },
+      {
+        "description": "geae pel ig cree ihetie",
+        "amount": 1.98
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 121.92,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "WY i:\ncash ef Yolande \u201d r 54\n99/08 14\nn/YORK 1% GRLC Oq 11:46\nCHICKEN. WINGS 26849300 \u2018\npICSWEe! BLEND 105605.\"\n96 1.34 } 2.18 5\npreswee! GREENS 7! 5608) . 3\n20 1.28 77 4.0\nHICKEN WINGe 268401000: > By\nDIET LN GRND B 50167400000 f\nPORK LOIN CHOP 20337400000 5.48 |\nDRUMSTICKS 26841800000 10.87 |\nEVE Rte STK FP 20148200000 9.91 |\nje RND_ STR FP 20148200000 9.32 F .\nPORK FOR STEW 20254300000 eso ;\nB/BEST 2 LOIN 20323300000 1044 FS\nBAR : 2 STEAK 4497921020 B40 FS\nLy Hy \u2018AT FRNK 1990013401 109\nWINCO NOOD 4470001903 8B ,\n20 IDLES 7055280303 49g 6S\ner re CHiN BR 973710 Bf ts\nT DELUXE MAC 2100 1318\n2 a MAC 2100065886 5.98 Fs\nye WAFFLE 3.64 Fs\nL/D NUTTY 3800037435\nL\\D igs 2430004120 1.96 FS\nLINKS MILD M 2430004101 1.25 FS\nKEEB TOW 742955036 1.25 F\nTI NHOUSE 3010 60 S$\nURKEY FRANK 3010010055 5.78 &S\ngeae pel ig cree ihetie 1.98 FS\nHUNTS AG SAUCE BU St .88 FS\nS MANWICH enon 98 FS\nDM Bas , 89 10044212 Pa FS\nNAP CHNKY 2400 .64 FS\nWINGY \u00a9 Pay IIFANA Z i vA ode Tt\nWINCO Swe Wr Tossz001 Ts i\nMO 200 \u2014_ fe ..\nEGas MILK ToS04000 \u00ab1,98 FS x.\n70038372 ye ee\nSUBTOTAL 80 ae\n121.92\n"
+  },
+  {
+    "source_file": "receipt_023-23.png",
+    "merchant_name": "TAMAN DAYA,",
+    "date": "25/12/2018",
+    "time": "13:39 PM",
+    "line_items": [
+      {
+        "description": "NO.5:  & 59, JALAN SAGU 18,",
+        "amount": 5.57
+      },
+      {
+        "description": "1 PC +) 6,00",
+        "amount": 9.0
+      },
+      {
+        "description": "Rour ding Adjustment ;",
+        "amount": 0.0
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 9.6,
+    "cash_tendered": 0.0,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "tan woon yann\nBOOK TA_K (TAMAN DAYA) SDN 8HD\n7891 7-W\nNO.5: $5.57 & 59, JALAN SAGU 18,\nTAMAN DAYA,\n81100 JOHOR BAHRU,\nJOHOR\n\\ \u2018\nUT UTTER\n\u2018|\nDocument No : TDO1167104\nDate 25/12/2018 B: 13:39 PM\nCashier MANIS\nMember :\nCASH BILL\nCODE/DESC PRICE \u2014 Dise AMQUHI\nQTY RM RM\n95569 SH40116 KF MODEL ING CLAY KIDDY FISH\n1 PC + 9.00) 6,00 9.00\nTotal : 9,00\nRour ding Adjustment ; 0.00\nRound. :d Total (RM): 9.60\nCash ~~ 0.00\nCHANGE 00\n2.00\nGOODS SOLD ARt NOT RE TURNABDEOR\nEXCHANGEABLE\naca Pe i ee A Sate ot hy\nDY fa 1 08, AOL MP Gt. eA\nTHANK YOU\nPLEASE COrt AGAIN |!\n"
+  },
+  {
+    "source_file": "receipt_024-24.png",
+    "merchant_name": "tan woon yann",
+    "date": "19/10/2018",
+    "time": "20:49:59",
+    "line_items": [
+      {
+        "description": "88888 1",
+        "amount": 10.0
+      },
+      {
+        "description": "62483 1",
+        "amount": 55.9
+      },
+      {
+        "description": "@Ist%",
+        "amount": -5.59
+      },
+      {
+        "description": "RH",
+        "amount": 69.3
+      },
+      {
+        "description": "GAGHL cscseecueevarerixen",
+        "amount": 70.3
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 70.3,
+    "cash_tendered": null,
+    "change_due": 10.0,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "tan woon yann\nINDAH GIFT & HOME BECO\n27, JALAN DEDAP 13,\nTAMAN JOHOR JAYA,\n\n81100 JOHOR BAHRU, JOHOR.\nTel:07-3507405 Fax:07-35981460\nRECEIPT\n\n19/10/2018 20:49:59 #01\nCashier: CH Location/SP: 05 /O531\nMB: 4026588\nRoom No: O1 0501000259279\nDesc/Iten Qty Price Amt/(RH)\nST-PRIVILEGE CARD/&D INDAH\n88888 1 10.00 10.00\nGF-TABLE LAMP/STITCH <i>\n62483 1 55.90 55.90\n@Ist 10.00% -5.59\n#Total Qty 2 woman\nTOTAL ANT scsccvcsvcceees Rif 60,31\nROUNDING ADJ. ..0+2s0000 0,01\nRH 69.30 J\nGAGHL cscseecueevarerixen ON 70.30\nCHANGE cseaiccccssseacceae RA 10.00\nThank You ! Please Come Again !\nGoods Sold Are Not Returnable\nBealing In Wholesale And Retsil.\n"
+  },
+  {
+    "source_file": "receipt_025-25.png",
+    "merchant_name": "tan woon yann",
+    "date": "12-01-19",
+    "time": "21:13 ",
+    "line_items": [
+      {
+        "description": "8970669 1X",
+        "amount": 19.0
+      },
+      {
+        "description": "9066468 1X",
+        "amount": 68.02
+      },
+      {
+        "description": "9557031100236 1X",
+        "amount": 3.02
+      },
+      {
+        "description": "6935818350846 1X 3,88",
+        "amount": 3.88
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 33.9,
+    "cash_tendered": 50.0,
+    "change_due": 16.1,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "tan woon yann\nMR O.1.\u00a5. (JOHOR) SDN BHD\n(CO.REG :933109-X)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(MR DIY TESCO TERBAU)\n~ INVOICE-\nCHOPPING BOARD 35.5x25.5CM 803M#\nEZ1OHDOS ~ 24\n8970669 1X 19.00 19.00\nAIR PRESSURE SPRAYER SX-575-1 1.5L\nHCO3-7 - 15\n9066468 1X 8.02 68.02\nWAXCO WINDSHILED CLEANER 120ML\nWA14-3A - 48\n9557031100236 1X 3.02 3.02\nBOPP [TAPE 48MM+100M CLEAR\nFZ-04 - 36\n6935818350846 1X 3.88 3,88\nItem(s) : 4 Qty(s) : 4\nTOTAL RM 33,92\nROUNDING ADJUSTME} -RM 0.02\nTOTAL ROUNDED RM 33.90\nCASH RM 50.00\nCHANGE RM 16.10\n#\u00a5-------~ -----~-~--- -Set +--+ ++ + - \u00a5\n12-01-19 21:13 SHO1 ZKO9 14 ROO0027830\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\n. , 4\n"
+  },
+  {
+    "source_file": "receipt_026-26.png",
+    "merchant_name": "tan woon yann",
+    "date": "25/12/2018",
+    "time": null,
+    "line_items": [
+      {
+        "description": "NO.4. JALAN DEDAP 13",
+        "amount": 122.12
+      },
+      {
+        "description": "Discount0",
+        "amount": 0.6
+      },
+      {
+        "description": "| SR 0}",
+        "amount": 0.0
+      }
+    ],
+    "subtotal": null,
+    "tax": 60.91,
+    "total": 80.91,
+    "cash_tendered": 100.0,
+    "change_due": 15.1,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "tan woon yann\nYONGFATT ENTERPRISE\n(JM0517726)\nNO.122.124. JALAN DEDAP 13\n81100 JOHOR BAHRU\nTEL G7-3523888\nGS1ID 000849812504\nSIMPLIFIED TAX INVOICE\nGASH a\nDoc No CS06031664 Date 25/12/2018\nCashtet USER Time 123100\nSak. person Ret,\nftum Qty SiPiice Amount Tax\n\u00a38318 1 8091 BOOT SR\nELEGANT SCH TR BAG 15\nTotal Qty 1 8094\nTotal Sales (Excluding GST) 60.91\nDiscount 0.600\nTotal GST 0.00\nRounding -0 01\nTotal Salestoclusive of GST) : 80.90\nCASH : 100.00\nChange : 15.10\n| GST SUMMARY j\n| Tax Code vi Aint (RM) Tax (RM) |\n| SR 0 80.91 0.00}\n| Total : 80.91 0 00 |\nGOODS SOLD ARE NOT REFUNDABLE ONLY\n"
+  },
+  {
+    "source_file": "receipt_027-27.png",
+    "merchant_name": "tan woon yann",
+    "date": "18-11-18",
+    "time": "13:58 ",
+    "line_items": [
+      {
+        "description": "QS5559 16500126 ek",
+        "amount": 4.62
+      },
+      {
+        "description": "9555651400385 1X6",
+        "amount": 7.45
+      },
+      {
+        "description": "9090822 iX",
+        "amount": 4.5
+      },
+      {
+        "description": "ROUNDING ADJUSTMEN]",
+        "amount": 0.01
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 30.96,
+    "cash_tendered": 51.6,
+    "change_due": 20.1,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "tan woon yann\nMR O.T.\u00a5. GM) SON BHD\n(CO.REG : 86Q67)1-D)\n{01 1251-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(TESCG PUTRA NILAL)\nINVOICE-\nKILAT AUTO FCO WASH & SHINE ES1000 It\nWAS -/2A 12\n\u00a76\u00a75\u00a39168500193 lene Get aut\nKIL\u00e9T\u2019 ECO AUTO WASH &HAX EW-1000-11\nWA44-A 12\nQS5559 16500126 ek 4.62 4.62\nWH4G 277m) MOQ 2572\nWA4 4 24\nO795687600084 LA Lazo iis\nKLEENSO AJAIB 99 SERAT WANYI 900G\nWOOO - 15\n9555651400385 1X 7.45 7.456\nHANDKERCHIEF 7138682PCS\nPT IWZPJ1T1-4 - 6/300\n9090822 iX 4.50 4.50\nItem(s) : 5 Qty(s) ;: 5\nTota | RM 30.9)\nROUNDING ADJUSTMEN] RM 0.01\nTOTAL ROUNDED RM 30.96\nCASH RM 51.60\nCHANGE RM 20.10\n\u00a5 4\n18-11-18 13:58 SHO} Z153 {2 kO00002902\nUPERATOR TRAINEE CASHTER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\n. |\n"
+  },
+  {
+    "source_file": "receipt_028-28.png",
+    "merchant_name": "tan chay yee",
+    "date": "09/01/2019",
+    "time": "8:01:11 PM",
+    "line_items": [
+      {
+        "description": "Plastic 2",
+        "amount": 34.0
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 101.0,
+    "cash_tendered": 101.0,
+    "change_due": 70.0,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "tan chay yee\nABC HO TRADING\nNo,2&4, JALAN HARMONT 3/2,\nTAMAN DESA HARMONI.\n81100 JOHOR BAHRUJOHOR\n07-355 2616\n\u201cGash Bil; o1443008. ..... \u00b0\u00b0 +\u00bb...\nDate : 09/01/2019 8:01:11 PM\nCashier : O61\nDescription Qty\u201d Price Amount\nVS eee eT. IE... SEER\nPlastic 2 15.50 34.00\nce caeaeCniaaaiL caambinwe eer a:\nTotal Amount: ~ LUO,\nCash Received : 101.00\nChange : 70.00\n*Goods Sold are non-refundabl\n***T hank You***\n***Please Come Again*** $).00\n"
+  },
+  {
+    "source_file": "receipt_029-29.png",
+    "merchant_name": "ay y",
+    "date": "15/01/2019",
+    "time": "11:05:16 AM",
+    "line_items": [
+      {
+        "description": "000000111 1",
+        "amount": 193.0
+      }
+    ],
+    "subtotal": null,
+    "tax": 193.0,
+    "total": 193.0,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "tan chay yee\nay y\neK COPY ee\nOJC MARKETING SDN BHD\nROC NO: 538358-H\nNO 2 & 4, JALAN BAYU 4,\nBANDAR SERI ALAM,\n81750 MASAI, JOHOR\nTel:07-388 2218 Fax:07-388 8218\nEmail: ng@ojcgroup.com\nTAX INVOICE\n\u201cInvoice No: PEGIV-1030765. ~*~\nDate : 15/01/2019 11:05:16 AM\nCashier : NG CHUAN MIN\nSales Persor : FATIN\nBill To : THE PEAK QUARRY WORKS\nAddress \u2018J\nDescription Qty. Price Amount\n000000111 1 193.00 193.00 SR\nKINGS SAFETY SHOES KWD 805\n\u201c@ty:1 \u2018Total Exclude GST: ~\u2014\u00ab193.00\nTotal GST @6%: 0.00\nTotal Inclusive GST: 193.00\nsas skacaes ca RN NN OOO,\nTOTAL: 193,00\n\u2014eeen\"VISACARD.SS~S\u00ab&L.OO~\nXX00C000000K4 31 B\nApproval Code:000 qf a)\nGoods Sold Are Not Returnable & Refundable\n*+*+Thank You. Please Come Again.+***\n"
+  },
+  {
+    "source_file": "receipt_030-30.png",
+    "merchant_name": "tan chay yee",
+    "date": "02/01/2019",
+    "time": "2:47:14 PM",
+    "line_items": [
+      {
+        "description": "000000111 1",
+        "amount": 170.0
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 170.0,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "tan chay yee\nOJC MARKETING SDN BHD\nROC NO: 538358-H\nNO 2 & 4, JALAN BAYU 4,\nBANDAR SERI ALAM,\n\n81750 MASAI, JOHOR\nTel:07-3868 2218 Fax:07-388 8218\nEmail: ng@ojegroup.com\nCash Bill\n\u201cInvoice No: PEGIV-1030531\u00b0\u00b0~S~S\u201d\n\nDate 02/01/2019 2:47:14 PM\nCashier : RHYS TAN\nSales Persor : FATIN\n_escietion ay: _ Price Amount\n000000111 1 170.00 170.00\nKINGS SAFETY PoO4\nSHOES KWD 805\nQty\u2019 1 Total Item Discount! == .00\nTotal Amount: 170,00\nssitenteieicaan NS cscs ss\nTOTAL: 170.00\nVISA CARD 170.00\nHOOK KKK KS 318\nApproval Code: 123\nF900\nGoods Sold Are Not Returnable & Refundable\n****Thank You. Please Come Again.****\n"
+  },
+  {
+    "source_file": "receipt_031-31.png",
+    "merchant_name": "tan chay yee",
+    "date": "11/01/2019",
+    "time": "09:44:00\n",
+    "line_items": [
+      {
+        "description": "1072 1 8000",
+        "amount": 80.0
+      },
+      {
+        "description": "70549 1",
+        "amount": 160.0
+      },
+      {
+        "description": "1071 1 1/00",
+        "amount": 17.0
+      },
+      {
+        "description": "70791 1 1000",
+        "amount": 10.0
+      },
+      {
+        "description": "70637 | 600",
+        "amount": 6.0
+      },
+      {
+        "description": "1643 1",
+        "amount": 8.0
+      },
+      {
+        "description": "70197 1",
+        "amount": 10.0
+      },
+      {
+        "description": "70561 2 18,00 36,00",
+        "amount": 16.0
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 327.0,
+    "cash_tendered": 327.0,
+    "change_due": 0.0,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "tan chay yee\nSOON HUAT MACHINERY ENTERPRISE\n(JM0352019-K)\nNO.53 JALAN PUTRA 1,\nTAMAN SRI PUTRA.\n81200 JOHOR BAHRU\nJOHOR\nTEL . 07-5547360 /016-7993391 FAX: 07-5624059\nSOONHUAT2000@HOTMAIL.COM\nGST ID : 002116837376\n\nSOS aT nt Seen\nDoc No. CsSo00004040 Date: 11/01/2019\nCashier : USER Time: 09:44:00\nSalesperson : Ref.:\n\nItem ty S/Price__S/Price _Amount_Tax\n1072 1 60.00 8000 80.00\nREPAIR ENGINE POWER SPRAYER (1UNIT)\nworkmanship & service\n70549 1 160.00 160.00 160.00\nGIANT 606 OVERFLOW ASSY\n1071 1 1/00 17.00 17.00\nENGINE OIL\n70791 1 10.00 1000 10.00\nGREASE FOR TOOLS 40ML (AKODA)\n\n70637 | 6.00 600 6.00\nEY20 PLUG CHAMPION\n1643 1 8.00 8.00 8.00\nSTARTER TALI\n70197 1 10.60 10.00 10.00\nEY20 STARTER HANDLE\n70561 2 16.00 18,00 36,00\nHD40 1L COTIN\n\u2014ToaiQy 9  \u00abSa700\nTotal Sales ; 327.00\nDiscount - 0.00\nTotal : 0.00\nRounding : 0,00\nTotal Sales : 327.00\nCASH : 327.00\nChange : 0.00\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU\n"
+  },
+  {
+    "source_file": "receipt_032-32.png",
+    "merchant_name": "tan chay yee",
+    "date": "23-01-2019",
+    "time": "13:14:15 PM",
+    "line_items": [
+      {
+        "description": "4132 1",
+        "amount": 20.0
+      },
+      {
+        "description": "ROUNDING ADJUSTMENT",
+        "amount": 0.0
+      }
+    ],
+    "subtotal": 20.0,
+    "tax": null,
+    "total": 20.0,
+    "cash_tendered": 20.0,
+    "change_due": 0.0,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "tan chay yee\nSHAH, MOTOR \u00a2 SUNGAL RENGIT ) SON, BHD,\n( 801580-T }\nNo. 343, Jalan Kurau, Sungai Rengit,\n81620 Pengerang, Johor.\nTel: 07-8263254 Fax: 07-8266888\nINVOICE\nITEM/DESC. QTY U.PRICE RM( TOTAL)\n4132 1 20.00 20.00\nCROCS 300X17 TUBES\na_i SUB TOTAL: 20.00\nROUNDING ADJUSTMENT : 0.00\nGRAND TOTAL : 20.00\nCASH : 20.00\nCHANGE ; 0.00\n23-01-2019 13:14:15 PM, PRINT BY: root\nTOKEN NO: 0, STATION ID: Al, PID: POS\nINVOICE NO: 22497\nThanks Your Support (ws)\n"
+  },
+  {
+    "source_file": "receipt_033-33.png",
+    "merchant_name": "fidag He",
+    "date": "09/02/2018",
+    "time": "08:32:00\n",
+    "line_items": [
+      {
+        "description": "6783 oF 5 \u00ab 47.5",
+        "amount": 3.8
+      },
+      {
+        "description": "2984 \u2018809 30 \u00ab = 114.0 ;",
+        "amount": 3.8
+      },
+      {
+        "description": "1760 aa 7 66.0\u00a2",
+        "amount": 65.0
+      },
+      {
+        "description": "2460 GA 2 86.0C",
+        "amount": 43.0
+      },
+      {
+        "description": "GASH",
+        "amount": 436.2
+      },
+      {
+        "description": "Ghange (RM) : j",
+        "amount": 0.0
+      },
+      {
+        "description": "SR 6",
+        "amount": 24.89
+      }
+    ],
+    "subtotal": 411.5,
+    "tax": 24.69,
+    "total": 436.2,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "fidag He\nPERNIAGAAN ZHENG HUI .\nJMO325958-V\nNO.8@ JALAN PERMAS 9/5 3\nBANDAR BARU PERMAS JAYA\n81760 JOHOR BAHRU ;\nTEL: 07-388 7524 FAX : 07-388 3793\nGST NO : 000800680824\nSIMPLIFIED TAX INVOICE '\nGOGIANT ENGINEERING (Ml) SDN BHD _ _\nRecelpt# 800082258 :\nSalesperson; Date. 09/02/2018\nCashier: USER Time: 08:32:00\nERR\njtem Qty RSP Amount\n6783 oF 5 \u00ab3.80 47.5\nSR CERAMIC CAP\n2984 \u2018809 30 \u00ab3.80 = 114.0 ;\nSR: SISTEEL 1/2\" STREET ELBOW\n1760 aa 7 65.00 66.0\u00a2\nSR: 2.4MM STARWELD RED HEAD TUNGSTEN ROD\n3496 44 3 %00 990\u00a2 ; :\nSR: ESIGUT 4\" CUTTING DISC (1BOX)-50PCS\n2460 GA 2 43.00 86.0C\nSR: WELDRO PICKLING GEL 1KG\n9428 Ge 4 1000 40.0c\nSR: 13.6\" WELDING GLOVE - GREEN (GS} ;\nTOTQTY, 48. 447 5\u00a2\n(Excluded GST) Sub Total (RM) 411.50\nDiscount(RM) : 00 e\nTotal GST (RM) : 24.69\nRounding (RM) : 0.0% : .\nTotal (RM} : 436.20\nGASH : 436.20\nGhange (RM) : 0.00 j\nGST SUMMARY\n_TaxGode = Amount____GST. 7 .\nSR 6 417.50 24.89\n\u201cTotal: \u00ab477.O\u201dSCO2h BG\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU. a\n"
+  },
+  {
+    "source_file": "receipt_034-34.png",
+    "merchant_name": "Apap dig",
+    "date": "12/02/2018",
+    "time": "08:30:30",
+    "line_items": [
+      {
+        "description": "8239 a8 1",
+        "amount": 15.06
+      },
+      {
+        "description": "8595075109147 4A 3 21,08",
+        "amount": 7.0
+      },
+      {
+        "description": "2016 aA 3 2AC",
+        "amount": 0.7
+      },
+      {
+        "description": "Discount (RM): a",
+        "amount": 0.0
+      },
+      {
+        "description": "Reunding {RM}",
+        "amount": -0.02
+      },
+      {
+        "description": "GASH",
+        "amount": 712.48
+      },
+      {
+        "description": "SR 6 106-40",
+        "amount": 6.37
+      }
+    ],
+    "subtotal": 106.1,
+    "tax": 6.37,
+    "total": 112.46,
+    "cash_tendered": null,
+    "change_due": 6.0,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "Apap dig\nPERNIAGAAN ZHENG HUI\n, JMOS25958-V\noe : NO.59 JALAN PERMAS 9/5 .\nBANDAR BARU PERMAS JAYA\n81760 JOHOR BAHRU\nTEL : 07-386 7524 FAX : 07-386 3793\nGST NO : 000800589824\nSIMPLIFIED TAX INVOICE\n\" \u201cGOGIANT ENGINEERING (i) SDNBHD\nRecelpt# CS00082562 ~\nSalesperson: Date: 12/02/2018 i\nCashier: USER Thme: 08:30:30\n| a\ntam gon Gty RSP Amount z\n8239 a8 1 16.00 15.06\nSR: 11\" PROWESS H/DUTY SILICONE GUN G-D2\n8595075109147 4A 3 7.00 21,08\n5R: XTRASEAL RI'V ACETIC SILICONE SA-107\nO744 GB 1 i800 %8.0\u00a2\nSR: CENTRAL PUNCH SET SPCS - 4/4\",5/32\".1/4\"\n12525 4B 1 5000 s00c ;\nSR, 24\" MARKSMAN PIPE WRENCH ;\n2016 aA 3 0.70 2AC\nSR: PVC WIRE TAPE 1PC X 7YD\n\u201cTOTQIY. 8 UGB HE\n(Excluded GST) Sub Total (RM): 106.10\nDiscount (RM): 0.00 a\nTotal GST (RM) : 6.37 5\nReunding {RM} : -0.02\nTotal (RM): | 112.46 ;\nGASH : 712.48\nChange (RM) : 6.00\nae GST SUMMARY\nTax Code  % Amount GST. .\nSR 6 106-40 6.37\nFetal: 106 1G\nee GOONS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\n"
+  },
+  {
+    "source_file": "receipt_035-35.png",
+    "merchant_name": "ALSERKAM ENTERPRISE",
+    "date": "01/02/2018",
+    "time": "4:43:17 PM",
+    "line_items": [
+      {
+        "description": "A 2 double ,mint te",
+        "amount": 3.0
+      },
+      {
+        "description": "& 1\u00b0 sandwich vaenil]",
+        "amount": 1.9
+      },
+      {
+        "description": "A= .00%",
+        "amount": 0.28
+      }
+    ],
+    "subtotal": null,
+    "tax": 0.28,
+    "total": 4.9,
+    "cash_tendered": 5.0,
+    "change_due": 0.1,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "PETRON BKT LANJAN SB\nALSERKAM ENTERPRISE\nTel: 03-6156 8757 Co No: 001083069-M\nKM 456.4 BKT LANJAN UTARA,\nL/RAYA UTARA SELATAN,SG BULOH\n47000 SUNGAI BUL\nGST ID No: 001210736640\nTAX INVOICE\nTAX INVOICE NO: 19729058\nPOS: =}\nStore No.: 12907? Babu\n01/02/2018 4:43:17 PM\nA 2 double ,mint te 3.00\n& 1\u00b0 sandwich vaenil] 1.90\nGST RM: : 2\u00b0 0.28\nTotal RM inc.GST: 4.90\nCash 5.00\nChange 0.10\nGST Summary Anount (RM) Tax (RM)\nA= .00% 4.62 0.28\nA ITAL INCLUDES 6.00% GST\nUse 3000 Petron Miles\npoints to pay for\nRM45 Fuel\n\u00a5 \u2018ere ea gee\n"
+  },
+  {
+    "source_file": "receipt_036-36.png",
+    "merchant_name": "aon _\u2014",
+    "date": "18/01/2018",
+    "time": "17:09:21\n",
+    "line_items": [
+      {
+        "description": "2 M SpicyDeluxe",
+        "amount": 25.4
+      },
+      {
+        "description": "1M GrilChicBgr",
+        "amount": 12.5
+      },
+      {
+        "description": "1 Smal! Cone",
+        "amount": 1.0
+      }
+    ],
+    "subtotal": null,
+    "tax": 38.9,
+    "total": 2.2,
+    "cash_tendered": 50.0,
+    "change_due": 11.1,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "aon _\u2014\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as\nGolden Arches Restaurants Sdn Bhd\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan $$21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Petronas Taman Melati DT\nTel No. : 03-4147-3107\nTAX INVOICE\nMFY Side 1\nINV# __.'141900016842\nORD #90 -REG #19- 18/01/2018 17:09:21\nQTY ITEM TOTAL\n2 M SpicyDeluxe 25.40\n2 M Coke\n2 M Fries\n1M GrilChicBgr 12.50\n1 M Coke\n1M Fries\n1 Smal! Cone 1.00\nTakeOut Total {incl GST) 38.90\nTotal Rounded 38.90\nCash Tendered 50.00\nChange 11.10\nTOTAL INCLUDES 6% GST 2.20\nf love to hear your feedback!\nVisit www.mcdfeedback .com.my\nOR\nDownload My McD Feedback from\nGoogle Play/App Store\nto share your experience\nThank You and Please Come Again.\nustomer Service Hotline : 03-2726-5600\n|\n"
+  },
+  {
+    "source_file": "receipt_037-37.png",
+    "merchant_name": "oe %",
+    "date": "18/01/2018",
+    "time": "10:27:03\n",
+    "line_items": [
+      {
+        "description": "2 ChicMcMuf fin",
+        "amount": 11.0
+      },
+      {
+        "description": "1 M Porridge",
+        "amount": 5.6
+      },
+      {
+        "description": "1 BM 2HotCakes",
+        "amount": 10.0
+      },
+      {
+        "description": "Tota! Rounded",
+        "amount": 26.6
+      }
+    ],
+    "subtotal": null,
+    "tax": 26.6,
+    "total": 1.51,
+    "cash_tendered": 40.0,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "oe %\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as\nGolden Arches Restaurants Sdn biid\nLicensee of McUonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan $$21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's BHP Taman Melawati(#328)\nTel No. 03-4162-2318\nTAX INV\u00b0ICE\nMFY Side 1\nINV# 003281900229170\nORD #50 -REG #19- 18/01/2018 10:27:03\nQTY ITEM TOTAL\n2 ChicMcMuf fin 11.00\n1 M Porridge 5.60\n1 BM 2HotCakes 10.00\n1 L Coke |\nTakeOut Total (incl GST) 26.60 |\nTota! Rounded 26.60\nCash Tendered 40.00\nChange 13,40\nTOTAL INCLUDES 6% GST 1.51\nWe'd love to hear your feedbe\nsit www.mcdfeedback .com.\nOR\nDownload My McD Feedback from\nGoogle Play/App Store\nto share your experience\nThank You and Please Come Again.\nCustomer Service Hotline : 03-2726-5600\n"
+  },
+  {
+    "source_file": "receipt_038-38.png",
+    "merchant_name": "LOT 13, JALAN",
+    "date": "05/02/2018",
+    "time": null,
+    "line_items": [
+      {
+        "description": "7",
+        "amount": 1.88
+      },
+      {
+        "description": "1000PC",
+        "amount": 2.0
+      },
+      {
+        "description": "0",
+        "amount": 5.0
+      },
+      {
+        "description": "0PC \u00abx",
+        "amount": 5.3
+      },
+      {
+        "description": "Tora\u2019 Saves Exciaimy SST",
+        "amount": 6.89
+      },
+      {
+        "description": "lounding Adjustment",
+        "amount": 0.0
+      },
+      {
+        "description": "Payment",
+        "amount": 7.3
+      },
+      {
+        "description": "SR @6 047",
+        "amount": 6.89
+      }
+    ],
+    "subtotal": 7.3,
+    "tax": 7.3,
+    "total": 7.3,
+    "cash_tendered": null,
+    "change_due": 0.0,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "SIN LIANHAP SDN BHD\nLOT 13, JALAN\nSIN LIANHAP SON GHD\nLOT 13, JALAN IPOH,\nKG BATU 30 , ULU YAM LAMA |\n44300 STG KALI, SELANGOR.\nTEL: 03-80752222(HUNTING LINE) FAX 03-80752572\n(Company Reg No: 264922-D )\n(GST Reg No: 001610832920}\nTAX INVOICE\nCASH CUSTOMER\ninvoice No. : - H0003939\nDate : : 05/02/2018\nCashier #: .\nRid Code\nPPD 4MM DENLIME\n1.887 SR\n1000PC 2.00\n60234 GARDEN\n5.000 SR\n1.000PC \u00abx 5.30\nSubtotal : 7.30\nTora\u2019 Saves Exciaimy SST : 6.89\nTotal Sales Inclusive of GST: 7.30\nlounding Adjustment : 0.00\nPayment : 7.30\nChange Due : 0.00\nTOtal iter (6) : 2\nGST Sumnay Asan Tas\nSR @6 6.89 047\n\u201cct DE EASE COME AGAIN\n"
+  },
+  {
+    "source_file": "receipt_039-39.png",
+    "merchant_name": "BANDAR UTAMA BATANG KALI,",
+    "date": "29/01/2018",
+    "time": "4:40:40 PM",
+    "line_items": [
+      {
+        "description": "SCHNEIDER E15R 13ASWITCH 1.",
+        "amount": 6.36
+      },
+      {
+        "description": "SOCKET OUTLET @00",
+        "amount": 6.0
+      },
+      {
+        "description": "tage es Adjustment",
+        "amount": -0.01
+      },
+      {
+        "description": "Paid Amount",
+        "amount": 19.9
+      },
+      {
+        "description": "SR@A",
+        "amount": 6000.36
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 6.35,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": null,
+    "currency": "MYR",
+    "raw_text": "CROSS CHANNEL NETWORK SDN. BHD.\n47, JALAN MERANTI 1, SEK. 3,\nBANDAR UTAMA BATANG KALI,\n44300 BATANG KALI, SELANGOR.\nTel : 03-6057 9688 Fax : 03-6057 9678\nGST ID : 001161500288\nQty RM Tax\nSCHNEIDER E15R 13ASWITCH 1. 6.36 SR\nSOCKET OUTLET @ 6.0000\nTotal Amt Incl. GST \u00a3 6%: 6,36\ntage es Adjustment: -0.01\nTotalAmtPayable: 6.35\nPaid Amount : 19.90\nGrange : d\npececeneeneeet Al Qty Tender: |.1,00...........,\n: GST Summary Amount Tax ;\nSR@A 6000.36 :\nT\nGoods sold are not refundable nor exchangeble.\nFor any enquiry, please e-mail us: |\ngowa9688@gmail.com |\n29/01/2018 4:40:40 PM\na | viiiiiiate lal\n"
+  },
+  {
+    "source_file": "receipt_040-40.png",
+    "merchant_name": "BANDAR UTAMA BATANG KALI,",
+    "date": "31/12/2017",
+    "time": "10:33:59 AM",
+    "line_items": [
+      {
+        "description": "\u201cOMM HERO PVC CONDUIT PIPE 1 sr",
+        "amount": 1.8
+      },
+      {
+        "description": "154 PVC CONNE\u00ae TOR @00 1",
+        "amount": 1.91
+      },
+      {
+        "description": "R & B-C/CLIP 8MM X 100PCS 1 SR |",
+        "amount": 3.71
+      },
+      {
+        "description": "3\" X 3\" 2862 A1PVCNUTBOX@ 1 sa",
+        "amount": 0.53
+      },
+      {
+        "description": "SSR@A 750 |",
+        "amount": 0.48
+      }
+    ],
+    "subtotal": null,
+    "tax": 7.95,
+    "total": 7.95,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": null,
+    "currency": "MYR",
+    "raw_text": "CROSS CHANNEL NE/WORK SDN. BHD. .\n47, JALAN MERANTI 1, SEK. 3,\nBANDAR UTAMA BATANG KALI,\n44300 BATANG KALI, SELANGOR. ,\nTel : 03-6057 9688 Fax : 03-6057 9678\nGST ID : 001151500288 : ~-\n<a adhd No. : BTG-050036\nQty RMTax \u2014\n\u201cOMM HERO PVC CONDUIT PIPE 1 1.80 sr\n@ 1 7000\n154 PVC CONNE\u00ae TOR @ 1.8000 1 1.91 SR\nR & B-C/CLIP 8MM X 100PCS 1 3.71 SR |\nCABLE CLIPS @ 3 5000\n3\" X 3\" 2862 A1PVCNUTBOX@ 1 0.53 sa\ni\nTotal Amt Incl. GST @ 6%: 7.95\nRounding Adjustment :\nTotal Amt Payable 7.95\nPaidAmount: 1000\nee 205\nposes see Ota OW Tender: 4.00 nw.\n: GST Summary Amount Tax |\n| ceconduticerantencsennnecususs ditt de~<e--<5t\nSSR@A 750 0.48 |\n{Tt eeecececeee Occ O48\nTHANK YOU\nFor any enquiry, please & mail us:\ngowad688@qgmiail.com\n31/12/2017 10:33:59 AM\n"
+  },
+  {
+    "source_file": "receipt_041-41.png",
+    "merchant_name": "SWC ENTERPRISE SDN BHD",
+    "date": "06/01/2018",
+    "time": "11:07:06 ",
+    "line_items": [
+      {
+        "description": "20X30 1KG i",
+        "amount": 8.0
+      },
+      {
+        "description": "G 26% Included In Tatel",
+        "amount": 0.45
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 8.0,
+    "cash_tendered": 10.0,
+    "change_due": 2.0,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "SWC ENTERPRISE SDN BHD\nPy {1125830-V}\nno. 5-7, Jalan Mahagoni 7/1,\nSekysen 4, Bandar Utama, 443500\nBatang Kali, Selangor. |\nTel : 03-6057 1377 |\nTAX INVOICE |\n{GST ID No. : 002017808384}\n06/01/2018 Cashier: 123\n11:07:06 No:0100080332\nItem/Desc. Oty Price Amt.\n20X30 BEG 1KG91X30}\n20X30 1KG i 8.00 8.00\nTotal Qty : i\nTOTAL AMOUNT 8.00\nCASH 10.00\nCHANGE 2.00\nG 26% Included In Tatel 0.45\nThank You ! Please Come Again '\n; Goods Sold Only Exchangable\nWithin 3 Days ! -\n"
+  },
+  {
+    "source_file": "receipt_042-42.png",
+    "merchant_name": "SAM SAM TRADING CO",
+    "date": "29-12-2017",
+    "time": null,
+    "line_items": [
+      {
+        "description": "9557368063013 1X5",
+        "amount": 5.2
+      },
+      {
+        "description": "opnngge iX5",
+        "amount": 8.9
+      },
+      {
+        "description": "BST 6%",
+        "amount": 0.8
+      },
+      {
+        "description": "BST 0%",
+        "amount": 0.0
+      }
+    ],
+    "subtotal": null,
+    "tax": 13.3,
+    "total": 14.15,
+    "cash_tendered": 20.0,
+    "change_due": 5.99,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "SAM SAM TRADING CO\n(742016-W)\n67,JLN MEWAH 25/63 THN SRI MUDA,\n40400 SHAH ALAM.\nTEL/FAX + 03-51213881\nBST NO: 001006288896\nTAX INVOICE r\nHE E06 UNICORN TWIN SUPER GLUE USG-99-\n9557368063013 1X 5.20 5.205\nSS EZL A4 CYBER HIX COLOR PAPER 100759\nopnngge iX 8.90 8.905\nNo. Qtyss 2 No. Items: 2\nTAX ANT (S) 6% RM 13.30\nBST 6% RH 0.80\nTAX ANT (Z) 0% RM 0.00\nBST 0% RM 0.00\nTAX ANT {E) 6% RH 0.00\nEXC GST 6% RH 0.00\nTOTAL RM 14.15\nCASH RH 20.00\nCHANGE RM 5.99\n| THANK YOU FOR SHOPPING =\n| GOODS SOLD ARE NOT RETURNABLE. \u2014\n| Frid-v, 29-12-2017 Time : 20217\nCas, \u00a2 : SAM SAM\ncS SWH 01 Inv:ROD072113\u00a2\n"
+  },
+  {
+    "source_file": "receipt_043-43.png",
+    "merchant_name": "| \\",
+    "date": "15/06/2017",
+    "time": "15:29:00\n",
+    "line_items": [
+      {
+        "description": "20001s0000024 8915",
+        "amount": 418.0
+      },
+      {
+        "description": "WISC",
+        "amount": 0.0
+      },
+      {
+        "description": "ROUNDING",
+        "amount": 0.0
+      },
+      {
+        "description": "Re 6",
+        "amount": 0.85
+      },
+      {
+        "description": "ee ixctorals, \u00ab",
+        "amount": 0.65
+      }
+    ],
+    "subtotal": 15.0,
+    "tax": null,
+    "total": 15.0,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "| \\\nAIK ny a\nenn EHERT sbOpRwat\nALAM) &\n) SON BHD\nx 822737-X\n0. 17-6, JALAN SETIA INDAH\n(1) U13/X, SETTA BLAH\nTEL = ees YEN U13, 40170 SHAH ALAN\nLi O12 ~ 6651783 FAX: 03 - 33693409\nGST NOs GuOassa5z9749\nVv\nSLAPLIFIED TAX INVOICE\nihe: Sa egy co ae\nRECEIPT : CSPO393921 GATE: 15/06/2017\nSALESPERSON : AHOO2 TIME: 15:29:00\nITEH QTY = U/P ANOUNT\n(Ri) (rit)\n20001s0000024 891 18.00 418.005\n20\" 1.6KG X SOOKN BIG SIRETCH FILM 77?\nTAL QUANTITY 1\nSUB-TOTAL (6ST) 15.00\nWISC 0.00\nROUNDING 0.00\nTOTAL is.U0\nCASH L4.U0\nCHANGE G.00\n\u00a5GST @ 6% INCLUDED IN TOTAL\nGST SUMMARY\nCONE AMOUNS = % =~ TAX/AMT\nRe 14.15 6 0.85\nee ixctorals, \u00ab0.65\nGOODS SOLD ARE NO KEFURDALLE,\n\u2018THANE YOU FOR CHOUSING Us.\n\n; _\u00bb PROVIDE ORLGINAL BILL FOR j\nRXCHANGE WITHIN 1 SEEK FRO IRANSAATION\nGOODS HUSf BE IN ORIGINAL STATE AO bE\nENTITLED FOR EXCHANGE.\n"
+  },
+  {
+    "source_file": "receipt_044-44.png",
+    "merchant_name": "SELANGOR.",
+    "date": "22/12/2017",
+    "time": "14:03\n",
+    "line_items": [
+      {
+        "description": "\u00a5",
+        "amount": 15.9
+      },
+      {
+        "description": "Payment",
+        "amount": 50.0
+      },
+      {
+        "description": "SR @ 6%",
+        "amount": 0.9
+      }
+    ],
+    "subtotal": 15.9,
+    "tax": 5.0,
+    "total": 48.9,
+    "cash_tendered": null,
+    "change_due": 34.7,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "HOE MASTER HARDWARE &\nELECTRICAL\n \u2014sONO.113G & 115G, JALAN SETIA GEMBILANG\n| U13/G BANDAR SETIA ALAM,\ni 40170 BANDAR SETIA ALAM,\nSELANGOR.\n| Company Reg No. <S403711951-P\nGST Reg No. 001837511166\nTAX INVOICE\nInvolee No: CS 47832\n' Date: 22/12/2017 14:03\nCashler#: CASHIER\nRi Code\n24MIMZ7\u00a5 M.ONE TAPE\n1.00 \u00a5 75.90 15.90 SR\nSubtotal : 15.90\nTotalExclofGST \u2014=\u00ab5.00.\nTota! Incl. of GST 15.90\nTotalAmtRounded  \u00a7  \u2014\u00ab+48.90\nPayment : 50.00\nChange Due : 34.70\n. Total Item(a) 21\nG  ummary Anouni(RM) Tax (RM)\nSR @ 6% 19.00 0.90\nRINE a eProp\nANY GOODS RETURN PLEASE 00 WITHIN\n7 DAYS WITH ORIGINAL RECEIPT Ta\u201d\n"
+  },
+  {
+    "source_file": "receipt_045-45.png",
+    "merchant_name": "No: 28, JALAN ASTANA 1C,",
+    "date": "20/11/2017",
+    "time": "03:57:01 PM",
+    "line_items": [
+      {
+        "description": "2 %*  UNI ()=RM 90. 57",
+        "amount": 5.43
+      },
+      {
+        "description": "1 *  UNI ()=",
+        "amount": 155.66
+      },
+      {
+        "description": "1 *  UNI ()=RM _ 16. 79",
+        "amount": 1.01
+      },
+      {
+        "description": "TOTAO",
+        "amount": 278.8
+      },
+      {
+        "description": "GAS\\Ie#",
+        "amount": 278.8
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 278.8,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "card",
+    "currency": "MYR",
+    "raw_text": "LIGHTROOM GALLERY SDN BHD\nNo: 28, JALAN ASTANA 1C,\nBANDAR UKIT RAJA, 41050\nKLANG SELANGOR D.E, MALAYSIA\nROC No. : (1072825-A)\nGST No. : \u2018000584089600\nTel:03-3362 4395 Fax:03-3362 4395\nCREDIT NOTE\nStation: CASHIER C/N No: LCNO0212\nCashier: ANGELA Cover ; |\nBill Date : 20/11/2017\nBill Start: 20/11/2017 03:57:01 PM\nCode : 300-E0009\nName : ESWARAN 012-6369400\nAddress:\nGST No. :\nYT51129 SR\nYE36 BK 12W WW LED TRACK LIGHT\n-2 %* RM 45.29 UNI ( 5.43)=RM 90. 57\nYT52683 SR\nYE44 35W WW BK TRACK HOLDER\n1 * RM 155.66 UNI ( 9.34)=RM 155.66\nCH50688 SR\nIMETER TRACK-BK\n1 * RM 16.99 UNI ( 1.01)=RM _ 16. 79\nc SR\nRM39. 80 CONTRA W LCNOO21 1\n0 * UNIT\nSub Total RM 263. 02\nItem Discount : ; RM 0/20\nService Charge : RM 0. 00\nGST/TAX 6% RM =\u2014iL5. 78\nTOTAO : RM 278.80\nGAS\\Ie#: RM 278.80\nCHANGE: RM 480,000\nItem Count: 4\nQty Count : 4.0\nClosed Bill: 20/11/2017 04:01:23 PM\nk You, Please come again.\nee Sold are not refundable, returnable\nBANK ACC MBB 5128 4851 2118\nBANK ACC MBB 5626 4732 1744 :\nBANK ACC AMBANK 888 100 123 3706\nGST Summary Amount (RM) Tax (RM)\nPeg ee Sea R ae: 15. 78\nSR @ 6% 263, 02\n7R/0S/EZ 0. 00 0. 00\n"
+  },
+  {
+    "source_file": "receipt_046-46.png",
+    "merchant_name": "SELAnbuk",
+    "date": "12/28/2017",
+    "time": "10:17:32 PM",
+    "line_items": [
+      {
+        "description": "fotaliitens) =)) Seeteemes",
+        "amount": 91.0
+      },
+      {
+        "description": "Jotal Qty =",
+        "amount": 41.0
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 91.0,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "NO.2-1-1 JALAN .FITA PRIMA 0\nYU 13/0 SETI. Al AM 40170\nSHA Al AM\nSELAnbuk\nUEXRKKAMAAARKAEKHAKE ya KER KALE EKAKKEKAKE\nTAX INVOICE\nRXXKKAKAAAA AA AAA KAKA KKAKAKAAKAKAAKX KAKA AKEKXE\nTERMINAL : Cl\nCASHIER : HASSAN\nBILL NQ : C1-0170778\nDATE > 12/28/2017 10:17:32 PM\nTOKEN ; CTI\nTABLE \u2014:: C11\nPreamet = Oty U.PulcolsiGcis = mnyapnime\nMAKANAN: ss os Se eee\n) bm 8 Res\nfotaliitens) =) 91.00) Seeteemes\nJotal Qty = 41.00\nJ omens Subntota le ein RH aaa\nDiscount RN ne\nTotal Excl.6% GS] Ry yee\nGST Bt my Waa\nTotal Incl.6% Gst py ye\nRounding RH A\nCASH pe soar\nCHANGE nt ae\noS OT SLI rare 00\n| Thank You.Cowe Again > 77~7---\na. 2017-12-28 22:17pH\nbax, e\n"
+  },
+  {
+    "source_file": "receipt_047-47.png",
+    "merchant_name": "TAMAN BERKELEY",
+    "date": null,
+    "time": null,
+    "line_items": [
+      {
+        "description": "2973 PEDIASURE COMPLETE 325 RHiI =",
+        "amount": 7.9
+      },
+      {
+        "description": "Rounding Ri",
+        "amount": 187.0
+      }
+    ],
+    "subtotal": null,
+    "tax": 149.78,
+    "total": 149.78,
+    "cash_tendered": 200.06,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "V9 SPEED HART 5/8 (S39537-K)\nLOT #7. 2814, JALAN ANGSA,\nTAMAN BERKELEY\n44150 KLANG, SELANGOK\n1413-SETIA ALAK 2\nis G37 1D, NO: GOGIS17977i2\nINVOICE NO; 19222/202/T0541\n033 297% 562536 Bindi-i7\n2973 PEDIASURE COMPLETE 325 RHiI7.90 =\n69 WILE Zk6 peas. 90\n709 ZING HEING GAT & WHEAT RNS, 10 &\n69% DISNEY 05112 BIDE NECK RMS.87 =\n4395 JONNSONS FNS.5 23h BS RHO.97 $\nTotal Sales (inclusive GST) kM 149.78\nPounding Adjustment Ril 02\nRounding Ri 187.00\nCASH RM 200.06\nCHANGE RH 3G. 20\nGot Summary Amount i Ri) JaniRh)\nzg = Ah 160.1% 9.4)\nThank You. Fiease come aogih\nKeep the invoice for applicable returnc\n"
+  },
+  {
+    "source_file": "receipt_048-48.png",
+    "merchant_name": "Se",
+    "date": null,
+    "time": "30:06:00\n",
+    "line_items": [
+      {
+        "description": "9556641320027 17",
+        "amount": 0.9
+      },
+      {
+        "description": "955623111004 7",
+        "amount": 3.55
+      },
+      {
+        "description": "9556127101331 14 \u00a7",
+        "amount": 1.5
+      },
+      {
+        "description": "885019932072; 4",
+        "amount": 1.51
+      },
+      {
+        "description": "885019932072;.",
+        "amount": 1.51
+      },
+      {
+        "description": "688800218851; 1",
+        "amount": 2.44
+      },
+      {
+        "description": "ARN AE | 230",
+        "amount": 2.44
+      },
+      {
+        "description": "R448 |",
+        "amount": 1.6
+      },
+      {
+        "description": "95595703121 \u00a7R",
+        "amount": 2.9
+      },
+      {
+        "description": "Discount",
+        "amount": 0.0
+      },
+      {
+        "description": "Rounding ;",
+        "amount": 0.02
+      },
+      {
+        "description": "| SR 6 lax(Ryy",
+        "amount": 27.43
+      },
+      {
+        "description": "ZRL 0",
+        "amount": 1.65
+      }
+    ],
+    "subtotal": null,
+    "tax": 31.03,
+    "total": 0.09,
+    "cash_tendered": 40.0,
+    "change_due": 7.3,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "| ASIA MART\n(SA0264195-T) eth\nNO.23 BATU 10, TAMAN SELANGOR:\nJALAN KAPAR, 42200 KLANG,\n| GST ID : 001609584640\nSe\n\u2014\u2014...___...- TAX INVOIGE_\u2014 50212017\nDoz No - \u00a9S02070163 PLN 30:06:00\nCashier : EIRA ie :\nSalesperson : EIRA Rel\nWoe, OEM hi GST)\n(GST y ( t Tax\ntem Oty S/Price__S/Pric eae SR\n9556641320027 17 0.85 0.90\nDELICIA CHOCOLATE [50G) a\n955623111004 7 3.65 3.55 3.55\nGARDENIA ORIGINAL CLASSIC JUMBO [600G] -\n9556127101331 14 1.41 1.50 1.50 \u00a7\nHU \u00abJS LIME 50G\n885019932072; 4 1.42 1.51 1.51 SR\nDOREMON CATCAT JOY 15G\n885019932072; 1.42 1.51 1.51. SR\nDOREMON CATCAT JOY 15G\n688800218851; 1 2.30 2.44 2.44 SR\nMINUTE MAID PULPY [OREN] [350ML]\nARN AE | 230 2.44 2.44 SR\nWINUTE | \u2018J OREN! {350ML]\nR448 | 1.60 1.60 SR\nON) DRINK SUOML\n95595703121 2.74 2.90 2.90 \u00a7R\n100 Fi JIS [1 |\n\u2019 Total Civ\u201d f Ol IE oa 532160 maaan\nTotal Sales (Excluding GST) : 31.03\nDiscount : 0.00\nTotal GST \u2018 1.65\nRounding ; 0.02\nTatal Sales (Inclusive of GST) : 32.70\nCASH; 40.00\nChange : 7.30\n\u2018 GST SUMMARY > \u2014\u2014___ _\n' Tax Codg % Amt (RM)\n| SR 6 27.43 lax(Ryy\nZRL 0 3.55 1.65\nTotal : 31.03 0.09\nGOODS SOLD ARE NOT RET\nE URNABLE, THANK You\n"
+  },
+  {
+    "source_file": "receipt_049-49.png",
+    "merchant_name": "SECURE PARKING",
+    "date": null,
+    "time": "14:59",
+    "line_items": [],
+    "subtotal": null,
+    "tax": null,
+    "total": 1.0,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "3180301\nSECURE PARKING\nCORPORATION $/B |\nRiverwalk Village\nBatu 3, Jalan Ipoh\n51200 KL.\nGSTNo. 000296652800\nTEL No: 1300881698\nRECEIPT C13\nReceipt Number: |\nKO13 1800235097 |\nENTRY I IME:\n23.3. 18 14:59 |\nEXIT TIME: |\n23; 03..18 1bi27\nPARK-DUR.: D:HH:MM\n0:00:28\nKIND OF VAYMENT:\nCASH\nParking Fee RM\n0.94\nAdd GST RM\n0.06\n* AMT RM\n1.00\n| *Rate incl. 6% GSI\n|\nTHANK YUU FUR YOUR\nVISIT\n|\n"
+  },
+  {
+    "source_file": "receipt_050-50.png",
+    "merchant_name": "SELANGOR.",
+    "date": "22/12/2017",
+    "time": "14:03\n",
+    "line_items": [
+      {
+        "description": "\u00a5",
+        "amount": 15.9
+      },
+      {
+        "description": "Payment",
+        "amount": 50.0
+      },
+      {
+        "description": "SR @ 6%",
+        "amount": 0.9
+      }
+    ],
+    "subtotal": 15.9,
+    "tax": 5.0,
+    "total": 48.9,
+    "cash_tendered": null,
+    "change_due": 34.7,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "HOE MASTER HARDWARE &\nELECTRICAL\n \u2014sONO.113G & 115G, JALAN SETIA GEMBILANG\n| U13/G BANDAR SETIA ALAM,\ni 40170 BANDAR SETIA ALAM,\nSELANGOR.\n| Company Reg No. <S403711951-P\nGST Reg No. 001837511166\nTAX INVOICE\nInvolee No: CS 47832\n' Date: 22/12/2017 14:03\nCashler#: CASHIER\nRi Code\n24MIMZ7\u00a5 M.ONE TAPE\n1.00 \u00a5 75.90 15.90 SR\nSubtotal : 15.90\nTotalExclofGST \u2014=\u00ab5.00.\nTota! Incl. of GST 15.90\nTotalAmtRounded  \u00a7  \u2014\u00ab+48.90\nPayment : 50.00\nChange Due : 34.70\n. Total Item(a) 21\nG  ummary Anouni(RM) Tax (RM)\nSR @ 6% 19.00 0.90\nRINE a eProp\nANY GOODS RETURN PLEASE 00 WITHIN\n7 DAYS WITH ORIGINAL RECEIPT Ta\u201d\n"
+  },
+  {
+    "source_file": "receipt_051-51.png",
+    "merchant_name": "No: 28, JALAN ASTANA 1C,",
+    "date": "20/12/2017",
+    "time": "07:10:35 PM",
+    "line_items": [
+      {
+        "description": "| *  UNI ()=RM 2,83",
+        "amount": 0.17
+      },
+      {
+        "description": "2 *  UNI ()=",
+        "amount": 66.04
+      },
+      {
+        "description": "Sub Tota] ;",
+        "amount": 68.87
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 68.87,
+    "cash_tendered": null,
+    "change_due": 0.0,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "LIGHTROOM GALLERY SDN BHD\nNo: 28, JALAN ASTANA 1C,\n; BANDAR BUKIT RAJA, 41050\nKLANG SELANGOR Dp. E, MALAYSIA\n| ROC No. : (1072825-A)\nGST No. : 000584089600\nTel :03-3362 4395 Fax:03-3362 4395\n; TAX INVOICE\nStation: CASHTER Bill No: LCS03908\nCas r: ANGELA Cover : |]\nBill Date : 20/12/2017\nBill Start: 20/12/2017 07:10:35 PM\nCode : 300-CO001\nNane : CASH\nAddress :\nGST Nowa:\nCH50514 SR\nT5 JOINT 2PIN 2Pcs\n| * RM 2.83 UNI ( 0.17)=RM 2,83\nYT51874 SR\nYE30 BK 7W WW LED TRACK LIGHT\n2 * RM 33.02 UNI ( 3.96)=RM 66.04\nSub Tota] ; RM 68.87\nService Charge  ; RM 0. 00\nGST/TAX 6%, : RM 4513\nTORS, : RM 73. 00\nCA. : RM 73. 00 ;\nCHANGE: RM 0.00 =\nTtem Count: 2\nQty Count : 3.0\nClosed Bill: 20/12/2017 07:10:51 PM\nThank You, Please come again.\nGoods Sold are not refundable, returnable\nBANK ACC MBB 5128 4851 2118\nBANK ACC MBB 5626 4732 1744\nBANK ACC AMBANK 888 100 123 3706\nGST Summary Amount (RM) Tax (RM) |\nSR@ 6K 68. 87 4,13 |\nZR/OS/EZ 0. 00 0. 00\n"
+  },
+  {
+    "source_file": "receipt_052-52.png",
+    "merchant_name": "No: 28, JALAN ASTANA 1C,",
+    "date": "20/11/2017",
+    "time": "03:57:01 PM",
+    "line_items": [
+      {
+        "description": "2 %*  UNI ()=RM 90. 57",
+        "amount": 5.43
+      },
+      {
+        "description": "1 *  UNI ()=",
+        "amount": 155.66
+      },
+      {
+        "description": "1 *  UNI ()=RM _ 16. 79",
+        "amount": 1.01
+      },
+      {
+        "description": "TOTAO",
+        "amount": 278.8
+      },
+      {
+        "description": "GAS\\Ie#",
+        "amount": 278.8
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 278.8,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "card",
+    "currency": "MYR",
+    "raw_text": "LIGHTROOM GALLERY SDN BHD\nNo: 28, JALAN ASTANA 1C,\nBANDAR UKIT RAJA, 41050\nKLANG SELANGOR D.E, MALAYSIA\nROC No. : (1072825-A)\nGST No. : \u2018000584089600\nTel:03-3362 4395 Fax:03-3362 4395\nCREDIT NOTE\nStation: CASHIER C/N No: LCNO0212\nCashier: ANGELA Cover ; |\nBill Date : 20/11/2017\nBill Start: 20/11/2017 03:57:01 PM\nCode : 300-E0009\nName : ESWARAN 012-6369400\nAddress:\nGST No. :\nYT51129 SR\nYE36 BK 12W WW LED TRACK LIGHT\n-2 %* RM 45.29 UNI ( 5.43)=RM 90. 57\nYT52683 SR\nYE44 35W WW BK TRACK HOLDER\n1 * RM 155.66 UNI ( 9.34)=RM 155.66\nCH50688 SR\nIMETER TRACK-BK\n1 * RM 16.99 UNI ( 1.01)=RM _ 16. 79\nc SR\nRM39. 80 CONTRA W LCNOO21 1\n0 * UNIT\nSub Total RM 263. 02\nItem Discount : ; RM 0/20\nService Charge : RM 0. 00\nGST/TAX 6% RM =\u2014iL5. 78\nTOTAO : RM 278.80\nGAS\\Ie#: RM 278.80\nCHANGE: RM 480,000\nItem Count: 4\nQty Count : 4.0\nClosed Bill: 20/11/2017 04:01:23 PM\nk You, Please come again.\nee Sold are not refundable, returnable\nBANK ACC MBB 5128 4851 2118\nBANK ACC MBB 5626 4732 1744 :\nBANK ACC AMBANK 888 100 123 3706\nGST Summary Amount (RM) Tax (RM)\nPeg ee Sea R ae: 15. 78\nSR @ 6% 263, 02\n7R/0S/EZ 0. 00 0. 00\n"
+  },
+  {
+    "source_file": "receipt_054-54.png",
+    "merchant_name": "No: 28, JALAN ASTANA 1C,",
+    "date": "20/12/2017",
+    "time": "07:10:35 PM",
+    "line_items": [
+      {
+        "description": "| *  UNI ()=RM 2,83",
+        "amount": 0.17
+      },
+      {
+        "description": "2 *  UNI ()=",
+        "amount": 66.04
+      },
+      {
+        "description": "Sub Tota] ;",
+        "amount": 68.87
+      }
+    ],
+    "subtotal": null,
+    "tax": null,
+    "total": 68.87,
+    "cash_tendered": null,
+    "change_due": 0.0,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "LIGHTROOM GALLERY SDN BHD\nNo: 28, JALAN ASTANA 1C,\n; BANDAR BUKIT RAJA, 41050\nKLANG SELANGOR Dp. E, MALAYSIA\n| ROC No. : (1072825-A)\nGST No. : 000584089600\nTel :03-3362 4395 Fax:03-3362 4395\n; TAX INVOICE\nStation: CASHTER Bill No: LCS03908\nCas r: ANGELA Cover : |]\nBill Date : 20/12/2017\nBill Start: 20/12/2017 07:10:35 PM\nCode : 300-CO001\nNane : CASH\nAddress :\nGST Nowa:\nCH50514 SR\nT5 JOINT 2PIN 2Pcs\n| * RM 2.83 UNI ( 0.17)=RM 2,83\nYT51874 SR\nYE30 BK 7W WW LED TRACK LIGHT\n2 * RM 33.02 UNI ( 3.96)=RM 66.04\nSub Tota] ; RM 68.87\nService Charge  ; RM 0. 00\nGST/TAX 6%, : RM 4513\nTORS, : RM 73. 00\nCA. : RM 73. 00 ;\nCHANGE: RM 0.00 =\nTtem Count: 2\nQty Count : 3.0\nClosed Bill: 20/12/2017 07:10:51 PM\nThank You, Please come again.\nGoods Sold are not refundable, returnable\nBANK ACC MBB 5128 4851 2118\nBANK ACC MBB 5626 4732 1744\nBANK ACC AMBANK 888 100 123 3706\nGST Summary Amount (RM) Tax (RM) |\nSR@ 6K 68. 87 4,13 |\nZR/OS/EZ 0. 00 0. 00\n"
+  },
+  {
+    "source_file": "receipt_055-55.png",
+    "merchant_name": "tn)",
+    "date": "18/03/18",
+    "time": null,
+    "line_items": [
+      {
+        "description": "litre Pump # 02",
+        "amount": 36.1
+      }
+    ],
+    "subtotal": null,
+    "tax": 4.87,
+    "total": 86.0,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "card",
+    "currency": "MYR",
+    "raw_text": "tn)\n\n3 180048\nShell ISNT PETRO TRADING\nConpany No: 002643278-A\nLOT 2685 JUN GENTING KLANG\n53300 KL Site 1066\noe 03- 40212008\nGST No. 0010 9010 5344\n>>>> >>> Receipt ceecced\nTnvotce number 60000053668\n\n36.10 litre Pump # 02\n\u00a5-Power 97 Ri = 86. OO A\n2450 RN / litre\n\nTotal Ri = 86. 00\nVisa RM =6.86. 00\n6.00% GST A RM 4.87\nTotal Gross ARM 86.00\nShell Loyalty Card\n6018840126306675\n\nPoints Awarded 35\n\nDate Titte Num OPT\n18/03/18 15 17 06051 02\nDiesel & Petrol RON 95\ngiven Relief under Section\n26 (3) (b) GST Act 2014\nThank You\nPleasae Come Again\n"
+  },
+  {
+    "source_file": "receipt_056-56.png",
+    "merchant_name": "Sy bee.",
+    "date": null,
+    "time": "12:44:00 PM",
+    "line_items": [
+      {
+        "description": "1  $ST30 \u00a7",
+        "amount": 13.87
+      },
+      {
+        "description": "1 HS4 \u00a7",
+        "amount": 12.07
+      },
+      {
+        "description": "10% Srv Chg",
+        "amount": 2.59
+      },
+      {
+        "description": "Rounding",
+        "amount": 0.01
+      },
+      {
+        "description": "INCLUSIVE x",
+        "amount": 0.0
+      }
+    ],
+    "subtotal": 25.94,
+    "tax": 28.53,
+    "total": 30.25,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": null,
+    "currency": "MYR",
+    "raw_text": "Sy bee.\nOLDTOWN WHITE COFFEE\nOld Town Kopitiam Sdn Bhd (716269-x)\nSri Rampai\nTel: 03-4148 1876\nee a: CM Sed\n**THIS IS NOT A RECEIPT xx\nGST ID:000801587200\n4 COUNTERS 2009 LIZA\nCheck 37617 Cover: |\n22 Mar 18 12:44:00 PM\nTable:5 / 1\nomnes Dine In ==\n1  $ST30 13.87 \u00a7\n1 BRIO Stm Ginger R S\n] TF2 (H) Teh Tarik S\n1 HS4 12.07 \u00a7\n| SN5 Curry Mee S\n1 TF7 (C) Lemon T S\nSubtotal : 25.94\n10% Srv Chg: 2.59\nGST @6% 1.7]\nTotal: 30.24\nRounding: 0.01\nAmount Due 30.25\nINCLUSIVE 0.00 x\n~---3004 STORED 22 Mar 18 02:1 ..50 PM---\nTHANK YOU\nPLEASE COME AGAIN\nGST @6% included in total\nGSTSummary Amount(RM) GST(RM)\nS=GST @6%: 28.53 1.7]\nZ=GST @0%: 0.00 0.00\n| bd\n.\n(\\ /\ni KEE\n"
+  },
+  {
+    "source_file": "receipt_057-57.png",
+    "merchant_name": "Rak",
+    "date": "06/03/2018",
+    "time": "12:06:00\n",
+    "line_items": [
+      {
+        "description": "(T02) BRAISED PORK 20",
+        "amount": 14.0
+      },
+      {
+        "description": "(T\u00b0547 PORK - 1.0 12 00",
+        "amount": 12.0
+      },
+      {
+        "description": "(VOZ) SOUR & SPICY 10",
+        "amount": 12.0
+      },
+      {
+        "description": "(BO3) JASMINE GREEN 2.0",
+        "amount": 4.6
+      },
+      {
+        "description": "(RO4) ROAST PORK + 1.0",
+        "amount": 11.9
+      }
+    ],
+    "subtotal": null,
+    "tax": 3.08,
+    "total": 64.5,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "Rak\nSYL ROASTED DELIGHTS SDN. BHD.\n122703:\n75, JALAN SS 22/19, DAMANSARA JAYA, 47400 PJ\nTEL 03-7731 8169\n(351 ID: 002046390272\nDocNo. SQ00022185 TABLE Alo\nCashier USER Date. 06/03/2018\nSalesperson Time: 12:06:00\nDescription = Qty Price. Amount\n(T02) BRAISED PORK 20 7.00 14.00\nRICF \\WITH PEANUT\n(T\u00b0 1.40547 PORK - 1.0 12 00 12.00\nSMALL\n(VOZ) SOUR & SPICY 10 12.00 12.00\nMUSTARD\n(BO3) JASMINE GREEN 2.0 2.30 4.60\nTEA( HOT)\n(RO4) ROAST PORK + 1.0 11.90 11.90\nrtd La)\nTotal Qty: 7 $1.42\nTotal Sales (Excluding GST) - 5142\n\nDiscount - 0.00\n\nTotal GST . 3.08\n\nRounding - 0.00\n\nTotal Sales (inclusive of GST) 64.50\"\n"
+  },
+  {
+    "source_file": "receipt_058-58.png",
+    "merchant_name": "SELANGOR.",
+    "date": "20/03/2018",
+    "time": "6:41:02 PM",
+    "line_items": [
+      {
+        "description": "1 KO NABE INANIWA",
+        "amount": 24.0
+      },
+      {
+        "description": "YDON @",
+        "amount": 24.0
+      },
+      {
+        "description": "1 GREEN TEA @",
+        "amount": 1.0
+      },
+      {
+        "description": "1 GYOZA 5pcs @",
+        "amount": 15.0
+      },
+      {
+        "description": "1 GARLIC CHAHAN @ [T",
+        "amount": 6.0
+      },
+      {
+        "description": "service Chg%",
+        "amount": 4.0
+      },
+      {
+        "description": "SR",
+        "amount": 3.0
+      }
+    ],
+    "subtotal": null,
+    "tax": 3.0,
+    "total": 53.0,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "PR he ho ped:\nUROKO JAPANESE CUISINE SDN BHD\n22A-1, JALAN 17/54,\n\nSECTION 17,\n\n46400 PETALING JAYA,\n\nSELANGOR.\n\n03-7932 1023/0191\n\nGST Reg No: 001126838272\nBill No >: O1H-25029\nDate : 20/03/2018 6:41:02 PM\nCashiei : RESAN\nTable No : $09\n_QtyDescription Amount\n1 KO NABE INANIWA 24.00 SR\nYDON @ 24.00\n1 GREEN TEA @ 1.00 1.00 SR\n1 GYOZA 5pcs @ 15.00 15.00 SR\n1 GARLIC CHAHAN @ [T 6.00 SR\nA\n4 Total \u2014 46.00 \u2014\nDiscount : (.00)\nservice Chg 10.00% : 4.00\nGST : 3.00\nGrand Total:  \u2014-_\u2014 53.00\nNet Total : 53.00\nGST Summary \u2018% Amount(RM Tax(RM) \u2122M\nSR 6.00 50.00 3.00\n"
+  },
+  {
+    "source_file": "receipt_059-59.png",
+    "merchant_name": "TAR.",
+    "date": "18/01/2018",
+    "time": null,
+    "line_items": [
+      {
+        "description": "9557068000035 1 \u00ab",
+        "amount": 3.3
+      },
+      {
+        "description": "1 1 \u00ab",
+        "amount": 1.3
+      },
+      {
+        "description": "ROUNDING",
+        "amount": 0.02
+      },
+      {
+        "description": "SR",
+        "amount": 0.28
+      }
+    ],
+    "subtotal": 4.6,
+    "tax": 0.28,
+    "total": 0.28,
+    "cash_tendered": 4.9,
+    "change_due": 0.0,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "TAR.\n(001451637-M)Z 2 |\nNO. 53, JALAN BRGAR, 45400 nae BERJUNTA |\nSELANGOR DARUL EHSAN \u00a9 \u00a2/\nseuv08-a971 9072 egax 103-0271 9A y\nGST No. : 000689913854\n\nam SIMPLIFIED TAX INVOICE\nCASH\n\nReceipt No.: \u00a9S1801/26874 Date: 18/01/2018\n\nae || \u201c0, AMOUNT ||\n9557068000035 1 3.50 5.69 3.30 \u00ab\n- JIANYU STELL RULER 30CM THICK\n1 1 1.30 0.00 1.30 \u00ab\n~ LAMINATE FILM\nTotal Qty. : 2 4.60\nSUB-TOTAL (EX) . 4.60\nTOTAL TAX 0.28\nROUNDING : 0.02\nTOTAL : 4.90\nCASH , 4.90\nCHANGE 3 0.00\n| GST SUMMARY |\nwig at i AMOUNT TAX\nTAX C ODE oO _\u2014 (RAD) | (RMD)\nSR 6.00 4.60 0.28\nTOTAL: 4.60 0.28\nNote: (*) Indicated The Item Sold Has Been Related\nTo GST (Goods & Services Tax).\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\n"
+  },
+  {
+    "source_file": "receipt_060-60.png",
+    "merchant_name": "\u2014",
+    "date": "49-45-47",
+    "time": "1:22:56PM",
+    "line_items": [
+      {
+        "description": "| KOTAR",
+        "amount": 9.0
+      },
+      {
+        "description": "SR 84g",
+        "amount": 0.51
+      }
+    ],
+    "subtotal": null,
+    "tax": 0.51,
+    "total": 9.0,
+    "cash_tendered": 50.0,
+    "change_due": 41.0,
+    "payment_method": "cash",
+    "currency": "USD",
+    "raw_text": "\u2014\n/ ua a |\nFUY! MI ae\n\u201c<BR No.: 0195932K |\nie 49-45-47, ( \u00bb\nTAM N SBMA,\nOK, 45600 BE ABIOHYA\nALASELANGORG\n03-3279 1851,\nGST ne conor\n26/01/2018 1:22:56PM\nTAX INVOICE\nTRN: 1CRO576494 |\nCOUNTER 1 CASHIER: HOCK\nQty UOM U.Price Amt Amt Ine.Tax Code\n013 SUMMER CUP 48X230ML\n| KOTAR 8.49 8.49 9.00 SR\nGST6%+ 0.51\n\u2018TotaldQty: 1.00 ~~ 900\nTotal Includes GST 6% 9.00\nCustomer's Payment\nCash 50.00\nChange 41.00\nGST Summary Amount Tax\nSR 84g 0.51\n*Goads sold are not returnable\nThank you for shopping at FUY! MINI\nMARKET\n"
+  },
+  {
+    "source_file": "receipt_061-61.png",
+    "merchant_name": "ee - \u2014_\u2014 7 a",
+    "date": "17/01/2018",
+    "time": null,
+    "line_items": [
+      {
+        "description": "9555017370017 1 \u00ab",
+        "amount": 26.0
+      },
+      {
+        "description": "ROUNDING ;",
+        "amount": -0.01
+      },
+      {
+        "description": "SR",
+        "amount": 1.56
+      }
+    ],
+    "subtotal": null,
+    "tax": 1.56,
+    "total": 26.0,
+    "cash_tendered": null,
+    "change_due": null,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "ee - \u2014_\u2014 7 a\nTEO HENG STATIONERY & BOOKS\n(001451637-M)\n\nNO, 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nSELANGOR DARUL EHSAN\n'  TEL:03-3271 9872 FAX: 03-3271 9481\nGST No, : 000689913854\nSIMPLIFIED TAX INVOICE\nt\nCASH\nReceipt No.: CS1801/26821 Date: 17/01/2018\nae eee . AMOUNT\n_ ae OT} = DISC% (RM)\n9555017370017 1 28.00 7.14 26.00 \u00ab\n~ LION FILE 220*307 LAMINATING FILM\nTotal Qty. : 1 26.00\nSUB-TOTAL (EX) 26,00\nTOTAL TAX 1.56\nROUNDING ; -0.01\nr \u2018\u2014Q' i] oo 2 \u2014 on .\nCASH \u2018aeerpsiny |\\27%55\nCHANGE | aniqg 010\ni {17 \u2018yaw 2016 3\"\nyy,\nGST SUMMARY | |\nee . , AMOUNT TAX\nSR 6.00 26.00 1.56\nTOTAL : 26.00 1,56\nNote: (*) Indicated The Item Sold Has Been Related\nTo GST (Goods & Services Tax).\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU,\n"
+  },
+  {
+    "source_file": "receipt_062-62.png",
+    "merchant_name": "}",
+    "date": "15/01/2018",
+    "time": null,
+    "line_items": [
+      {
+        "description": "9556655864036 7 2642 914 +",
+        "amount": 24.0
+      },
+      {
+        "description": "9555535000663 / 2800 +",
+        "amount": 28.0
+      },
+      {
+        "description": "ROUNDING |",
+        "amount": -0.02
+      },
+      {
+        "description": "SR B12",
+        "amount": 92.0
+      }
+    ],
+    "subtotal": 92.0,
+    "tax": null,
+    "total": 3.12,
+    "cash_tendered": 55.1,
+    "change_due": 0.0,
+    "payment_method": "cash",
+    "currency": "MYR",
+    "raw_text": "}\n(001451637-M)\nNO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI\nZ SELANGOR DARUL EHSAN\nTEL: 03-3271 9872 FAX; 03-3271 9481\nGST No. : 000689913856\nSan SIMPLIFIED TAX INVOICE\nCASH\nReceipt No.: CS1801/26717 Date: 15/01/2018\nclea war pe vo: AMOUNT\nt, 4GY CC\n9556655864036 7 2642 914 24.00 +\n- CBE BADGE CLIP 100PCS\n9555535000663 / 2800 0.00 28.00 +\n~NISO Ad LAMINATING FILM\nTotal Qty. : 2 \u00a72.00\nSUB-TOTAL (EX) : 92.00\nTOTAL TAX 312\nROUNDING | : -0.02\nTOTAL Jf) om 55.10\nsac \u201cif ,\nCASH Pf f \u201cwal Ms 55.10\nCHANGE \u2018?f 4 SSS YN0.00\nze JS4 Ay ry a\nnt \u2122, \u201cU6 }\n|_GST SUMMARY),|\nee AMOUNT. \u2018TAX\n= CODE i (RM) (RM)\nSR 6.00 92.00 B12\nTOTAL ; 92.00 3.12\nNote: (*) indicated The item Sold Has Been Related\nTo GST (Goods & Services Tax).\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\n"
+  }
+]
