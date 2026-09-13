@@ -12,9 +12,17 @@ from parser import parse_receipt_text
 
 # Windows:
 # Change this path if Tesseract is installed somewhere else.
-pytesseract.pytesseract.tesseract_cmd = (
-    r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-)
+import shutil
+import pytesseract
+
+tesseract_path = shutil.which("tesseract")
+
+if tesseract_path is None:
+    raise RuntimeError(
+        "Tesseract OCR is not installed on this system."
+    )
+
+pytesseract.pytesseract.tesseract_cmd = tesseract_path
 
 
 # ============================================================
